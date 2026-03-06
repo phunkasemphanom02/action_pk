@@ -410,17 +410,11 @@ def save_to_json(new_data):
     
     for item in new_data:
         order_id = item["order_id"]
-        status = item.get("status") or ""
-        
-        if "ยกเลิก" in status:
-            if order_id in data_map:
-                del data_map[order_id]
-                log(f"[CLEANUP] Order {order_id} has been cancelled. Removed from local database.")
-        else:
-            data_map[order_id] = item
+        # บันทึกทุกรายการรวมถึงที่ยกเลิกแล้ว
+        data_map[order_id] = item
 
-    # Final filter to ensure no residues and sort
-    final_data = [o for o in data_map.values() if "ยกเลิก" not in (o.get("status") or "")]
+    # นำข้อมูลมาเรียงลำดับตามวันที่
+    final_data = list(data_map.values())
     final_data.sort(key=lambda x: x.get('date', ''), reverse=True)
 
     with open(DATA_PATH, "w", encoding="utf-8") as f:
