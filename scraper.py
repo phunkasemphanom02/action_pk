@@ -498,9 +498,9 @@ def main():
     
     # 3. อัปโหลดไฟล์ไฟล์ JSON เข้าไปที่ Google Drive โดยตรง
     try:
-        # อัปโหลด pkcargo_data.json เข้าไปในโฟลเดอร์ pkcargo_web
-        upload_file(DATA_PATH, "pkcargo_data.json", "pkcargo_web")
-        log("[OK] pkcargo_data.json uploaded to Google Drive!")
+        # อัปโหลด pkcargo_data.json เข้าไปในโฟลเดอร์ PK
+        upload_file(DATA_PATH, "pkcargo_data.json", "PK")
+        log("[OK] pkcargo_data.json uploaded to Google Drive folder 'PK'!")
     except Exception as e:
         log(f"[ERR] Failed to upload to GDrive directly: {e}")
 

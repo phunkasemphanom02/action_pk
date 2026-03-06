@@ -4,6 +4,9 @@ token.json
 config.json
 .env
 key.json
+code.gs
+index.html
+
 
 # Logs and temp files
 scraper_log.txt
