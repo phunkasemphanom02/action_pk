@@ -1,0 +1,39 @@
+name: Zortout Export to GDrive
+
+on:
+  workflow_dispatch:      # กดรันเองได้จากหน้า GitHub หรือสั่งผ่าน API (cron-job.org)
+
+jobs:
+  export-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Setup Chrome
+        uses: browser-actions/setup-chrome@v1
+        with:
+          chrome-version: stable
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: Setup Google Drive Credentials
+        env:
+          GDRIVE_CREDENTIALS: ${{ secrets.GDRIVE_CREDENTIALS_JSON }}
+          GDRIVE_TOKEN: ${{ secrets.GDRIVE_TOKEN_JSON }}
+        run: |
+          echo "$GDRIVE_CREDENTIALS" > credentials.json
+          echo "$GDRIVE_TOKEN" > token.json
+
+      - name: Run Export Script
+        env:
+          ZORT_EMAIL: ${{ secrets.ZORT_EMAIL }}
+          ZORT_PASS: ${{ secrets.ZORT_PASS }}
+        run: python zort_export.py

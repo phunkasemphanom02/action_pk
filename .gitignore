@@ -1,0 +1,21 @@
+# Secrets
+credentials.json
+token.json
+config.json
+.env
+key.json
+
+# Logs and temp files
+scraper_log.txt
+downloads/
+*.png
+*.log
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# JSON Data (if you want to keep data out of Git, but usually user wants to push pkcargo_data.json)
+# pkcargo_data.json
