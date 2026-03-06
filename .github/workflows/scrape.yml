@@ -42,7 +42,7 @@ jobs:
           GDRIVE_TOKEN_JSON: ${{ secrets.GDRIVE_TOKEN_JSON }}
           GDRIVE_CREDENTIALS_JSON: ${{ secrets.GDRIVE_CREDENTIALS_JSON }}
           PK_START_PAGE: 1
-          PK_MAX_PAGES: 15
+          PK_MAX_PAGES: 10
         run: python scraper.py
 
       - name: Commit and Push changes
