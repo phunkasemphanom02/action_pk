@@ -1,8 +1,10 @@
-name: Daily PK Cargo Scrape
+name: PK Cargo Scrape
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # รันทุกวันเวลา 07:00 น. (เวลาไทย)
+    - cron: '0 0 * * *'     # ดึง 10 หน้า ทุกวันเวลา 07:00 น. (เวลาไทย)
+    - cron: '30 * * * *'    # ดึงหน้าแรก ทุกชั่วโมงเวลา xx:30
+    - cron: '0 1-23 * * *'  # ดึงหน้าแรก ทุกชั่วโมงเวลา xx:00 (ยกเว้น 07:00 น.)
   workflow_dispatch:      # กดรันเองได้จากหน้า GitHub หรือสั่งผ่าน API
 
 jobs:
@@ -44,7 +46,8 @@ jobs:
           GDRIVE_TOKEN_JSON: ${{ secrets.GDRIVE_TOKEN_JSON }}
           GDRIVE_CREDENTIALS_JSON: ${{ secrets.GDRIVE_CREDENTIALS_JSON }}
           PK_START_PAGE: 1
-          PK_MAX_PAGES: 10
+          # รอบ 07:00 และการกดรันเองดึง 10 หน้า; รอบอื่นดึงเฉพาะหน้าแรก
+          PK_MAX_PAGES: ${{ (github.event_name == 'workflow_dispatch' || github.event.schedule == '0 0 * * *') && '10' || '1' }}
         run: python scraper.py
 
       - name: Commit and Push changes
