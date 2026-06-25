@@ -1,18 +1,129 @@
 [
   {
+    "detail_url": "https://member.pkcargo.com/shops/11580",
+    "scraped_at": "25/06/2026 04:34:37",
+    "order_id": "PN-1275#S11580",
+    "date": "25/06/2026 10:55",
+    "status": "สถานะ: กำลังตรวจสอบ",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "5.02 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "0.00 หยวน",
+      "net_cny": "¥ 222.50 หยวน",
+      "net_thb": "1,116.95 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13285",
+        "products": [
+          {
+            "name": "黄铜堵帽1分 2分 3分 4分 6分1寸内丝堵头堵帽内牙内螺纹管帽配件",
+            "options": "ตัวเลือกสินค้า: （1/4）2分内牙堵头",
+            "price_cny": "¥ 0.80",
+            "qty": "30.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 24.00",
+            "total_thb": "฿ 120.48",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 01-DN08"
+          },
+          {
+            "name": "黄铜堵帽1分 2分 3分 4分 6分1寸内丝堵头堵帽内牙内螺纹管帽配件",
+            "options": "ตัวเลือกสินค้า: （3/4）6分内牙堵头",
+            "price_cny": "¥ 2.00",
+            "qty": "45.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 90.00",
+            "total_thb": "฿ 451.80",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 01-DN20"
+          },
+          {
+            "name": "黄铜堵帽1分 2分 3分 4分 6分1寸内丝堵头堵帽内牙内螺纹管帽配件",
+            "options": "ตัวเลือกสินค้า: 1寸内牙堵头",
+            "price_cny": "¥ 3.10",
+            "qty": "35.00",
+            "ship_cny": "¥ 0.00",
+            "total_cny": "¥ 108.50",
+            "total_thb": "฿ 544.67",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-",
+            "item_internal_note": "หมายเหตุ: 01-DN25"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥222.50",
+          "total_qty": "110",
+          "total_ship_cny": "¥0.00",
+          "total_all_cny": "¥222.50",
+          "total_all_thb": "฿1,116.95"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
+    "detail_url": "https://member.pkcargo.com/shops/11578",
+    "scraped_at": "25/06/2026 04:34:37",
+    "order_id": "PN-1275#S11578",
+    "date": "24/06/2026 15:46",
+    "status": "สถานะ: รอชำระเงิน",
+    "shipping_type": "โดยเรือ",
+    "order_note": null,
+    "summary": {
+      "rate": "5.02 บาท/หยวน",
+      "extra_pay": "0.00 หยวน",
+      "china_shipping": "18.00 หยวน",
+      "net_cny": "¥ 72.00 หยวน",
+      "net_thb": "451.80 บาท",
+      "grand_net": null
+    },
+    "vendors": [
+      {
+        "vendor_id": "vendor-13283",
+        "products": [
+          {
+            "name": "LED户外防水广告招牌投光灯渔船夜市低压泛光灯50W30W100W150W200",
+            "options": "ตัวเลือกสินค้า: AC/DC12-24V通用豪华版白光50W",
+            "price_cny": "¥ 36.00",
+            "qty": "2.00",
+            "ship_cny": "¥ 18.00",
+            "total_cny": "¥ 72.00",
+            "total_thb": "฿ 361.44",
+            "extra_cny": "¥ 0.00",
+            "item_note": "-"
+          }
+        ],
+        "table_totals": {
+          "total_price_cny": "¥72.00",
+          "total_qty": "2",
+          "total_ship_cny": "¥18.00",
+          "total_all_cny": "¥72.00",
+          "total_all_thb": "฿361.44"
+        },
+        "tracking_numbers": []
+      }
+    ]
+  },
+  {
     "detail_url": "https://member.pkcargo.com/shops/11576",
-    "scraped_at": "24/06/2026 04:36:17",
+    "scraped_at": "25/06/2026 04:34:40",
     "order_id": "PN-1275#S11576",
     "date": "24/06/2026 10:25",
-    "status": "สถานะ: กำลังตรวจสอบ",
+    "status": "สถานะ: กำลังสั่งสินค้า",
     "shipping_type": "โดยเรือ",
     "order_note": "ราคาเดิม 18 หยวน",
     "summary": {
       "rate": "5.02 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": "0.00 หยวน",
-      "net_cny": "¥ 3,420.00 หยวน",
-      "net_thb": "17,168.40 บาท",
+      "net_cny": "¥ 3,240.00 หยวน",
+      "net_thb": "16,264.80 บาท",
       "grand_net": null
     },
     "vendors": [
@@ -22,11 +133,11 @@
           {
             "name": "DH48S-S数显循环延时继电器循环型循环控制器220V 24V 1Z 2Z 2ZH",
             "options": "ตัวเลือกสินค้า: DH48S-S AC220V",
-            "price_cny": "¥ 19.00",
+            "price_cny": "¥ 18.00",
             "qty": "150.00",
             "ship_cny": "¥ 0.00",
-            "total_cny": "¥ 2,850.00",
-            "total_thb": "฿ 14,307.00",
+            "total_cny": "¥ 2,700.00",
+            "total_thb": "฿ 13,554.00",
             "extra_cny": "¥ 0.00",
             "item_note": "-",
             "item_internal_note": "หมายเหตุ: 10-DH48S-S-220V"
@@ -34,22 +145,22 @@
           {
             "name": "DH48S-S数显循环延时继电器循环型循环控制器220V 24V 1Z 2Z 2ZH",
             "options": "ตัวเลือกสินค้า: DH48S-S AC380V",
-            "price_cny": "¥ 19.00",
+            "price_cny": "¥ 18.00",
             "qty": "30.00",
             "ship_cny": "¥ 0.00",
-            "total_cny": "¥ 570.00",
-            "total_thb": "฿ 2,861.40",
+            "total_cny": "¥ 540.00",
+            "total_thb": "฿ 2,710.80",
             "extra_cny": "¥ 0.00",
             "item_note": "-",
             "item_internal_note": "หมายเหตุ: 10-DH48S-S-380V"
           }
         ],
         "table_totals": {
-          "total_price_cny": "¥3,420.00",
+          "total_price_cny": "¥3,240.00",
           "total_qty": "180",
           "total_ship_cny": "¥0.00",
-          "total_all_cny": "¥3,420.00",
-          "total_all_thb": "฿17,168.40"
+          "total_all_cny": "¥3,240.00",
+          "total_all_thb": "฿16,264.80"
         },
         "tracking_numbers": []
       }
@@ -57,18 +168,18 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11575",
-    "scraped_at": "24/06/2026 04:36:17",
+    "scraped_at": "25/06/2026 04:34:39",
     "order_id": "PN-1275#S11575",
     "date": "24/06/2026 10:19",
-    "status": "สถานะ: กำลังตรวจสอบ",
+    "status": "สถานะ: กำลังสั่งสินค้า",
     "shipping_type": "โดยเรือ",
     "order_note": null,
     "summary": {
       "rate": "5.02 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
-      "china_shipping": "0.00 หยวน",
+      "china_shipping": "40.00 หยวน",
       "net_cny": "¥ 1,487.40 หยวน",
-      "net_thb": "7,466.75 บาท",
+      "net_thb": "7,667.55 บาท",
       "grand_net": null
     },
     "vendors": [
@@ -80,7 +191,7 @@
             "options": "ตัวเลือกสินค้า: SL6-02",
             "price_cny": "¥ 2.50",
             "qty": "110.00",
-            "ship_cny": "¥ 0.00",
+            "ship_cny": "¥ 40.00",
             "total_cny": "¥ 275.00",
             "total_thb": "฿ 1,380.50",
             "extra_cny": "¥ 0.00",
@@ -163,7 +274,7 @@
         "table_totals": {
           "total_price_cny": "¥1,487.40",
           "total_qty": "860",
-          "total_ship_cny": "¥0.00",
+          "total_ship_cny": "¥40.00",
           "total_all_cny": "¥1,487.40",
           "total_all_thb": "฿7,466.75"
         },
@@ -173,7 +284,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11572",
-    "scraped_at": "24/06/2026 04:36:19",
+    "scraped_at": "25/06/2026 04:34:42",
     "order_id": "PN-1275#S11572",
     "date": "23/06/2026 14:36",
     "status": "สถานะ: กำลังตรวจสอบ",
@@ -217,18 +328,18 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11571",
-    "scraped_at": "24/06/2026 04:36:19",
+    "scraped_at": "25/06/2026 04:34:42",
     "order_id": "PN-1275#S11571",
     "date": "23/06/2026 14:19",
-    "status": "สถานะ: กำลังตรวจสอบ",
+    "status": "สถานะ: กำลังสั่งสินค้า",
     "shipping_type": "โดยเรือ",
     "order_note": "05-MSP-11-BK",
     "summary": {
       "rate": "5.02 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
-      "china_shipping": "0.00 หยวน",
+      "china_shipping": "26.00 หยวน",
       "net_cny": "¥ 200.00 หยวน",
-      "net_thb": "1,004.00 บาท",
+      "net_thb": "1,134.52 บาท",
       "grand_net": null
     },
     "vendors": [
@@ -240,7 +351,7 @@
             "options": "ตัวเลือกสินค้า: 灰色酷耐特雾化单喷头",
             "price_cny": "¥ 0.20",
             "qty": "1000.00",
-            "ship_cny": "¥ 0.00",
+            "ship_cny": "¥ 26.00",
             "total_cny": "¥ 200.00",
             "total_thb": "฿ 1,004.00",
             "extra_cny": "¥ 0.00",
@@ -250,7 +361,7 @@
         "table_totals": {
           "total_price_cny": "¥200.00",
           "total_qty": "1000",
-          "total_ship_cny": "¥0.00",
+          "total_ship_cny": "¥26.00",
           "total_all_cny": "¥200.00",
           "total_all_thb": "฿1,004.00"
         },
@@ -260,7 +371,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11565",
-    "scraped_at": "24/06/2026 04:36:21",
+    "scraped_at": "25/06/2026 04:34:44",
     "order_id": "PN-1275#S11565",
     "date": "22/06/2026 16:20",
     "status": "สถานะ: รอชำระเงิน",
@@ -304,18 +415,18 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11564",
-    "scraped_at": "24/06/2026 04:36:21",
+    "scraped_at": "25/06/2026 04:34:44",
     "order_id": "PN-1275#S11564",
     "date": "22/06/2026 16:11",
-    "status": "สถานะ: กำลังตรวจสอบ",
+    "status": "สถานะ: ยกเลิกออเดอร์",
     "shipping_type": "โดยเรือ",
     "order_note": null,
     "summary": {
       "rate": "5.02 บาท/หยวน",
       "extra_pay": "0.00 หยวน",
       "china_shipping": "0.00 หยวน",
-      "net_cny": "¥ 245.15 หยวน",
-      "net_thb": "1,230.65 บาท",
+      "net_cny": "¥ 0.00 หยวน",
+      "net_thb": "0.00 บาท",
       "grand_net": null
     },
     "vendors": [
@@ -331,7 +442,7 @@
             "total_cny": "¥ 27.00",
             "total_thb": "฿ 135.54",
             "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "item_note": "ติดต่อร้านไม่ได้",
             "item_internal_note": "หมายเหตุ: 01-DN08"
           },
           {
@@ -343,7 +454,7 @@
             "total_cny": "¥ 91.80",
             "total_thb": "฿ 460.84",
             "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "item_note": "ติดต่อร้านไม่ได้",
             "item_internal_note": "หมายเหตุ: 01-DN20"
           },
           {
@@ -355,16 +466,16 @@
             "total_cny": "¥ 126.35",
             "total_thb": "฿ 634.28",
             "extra_cny": "¥ 0.00",
-            "item_note": "-",
+            "item_note": "ติดต่อร้านไม่ได้",
             "item_internal_note": "หมายเหตุ: 01-DN25"
           }
         ],
         "table_totals": {
-          "total_price_cny": "¥245.15",
-          "total_qty": "110",
+          "total_price_cny": "¥0.00",
+          "total_qty": "0",
           "total_ship_cny": "¥0.00",
-          "total_all_cny": "¥245.15",
-          "total_all_thb": "฿1,230.65"
+          "total_all_cny": "¥0.00",
+          "total_all_thb": "฿0.00"
         },
         "tracking_numbers": []
       }
@@ -372,10 +483,10 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11563",
-    "scraped_at": "24/06/2026 04:36:23",
+    "scraped_at": "25/06/2026 04:34:46",
     "order_id": "PN-1275#S11563",
     "date": "22/06/2026 16:02",
-    "status": "สถานะ: รอชำระเงิน",
+    "status": "สถานะ: กำลังสั่งสินค้า",
     "shipping_type": "โดยเรือ",
     "order_note": null,
     "summary": {
@@ -416,10 +527,10 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11559",
-    "scraped_at": "24/06/2026 04:36:23",
+    "scraped_at": "25/06/2026 04:34:46",
     "order_id": "PN-1275#S11559",
     "date": "22/06/2026 11:20",
-    "status": "สถานะ: รอชำระเงิน",
+    "status": "สถานะ: กำลังสั่งสินค้า",
     "shipping_type": "โดยเรือ",
     "order_note": null,
     "summary": {
@@ -496,10 +607,10 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11558",
-    "scraped_at": "24/06/2026 04:36:25",
+    "scraped_at": "25/06/2026 04:34:48",
     "order_id": "PN-1275#S11558",
     "date": "22/06/2026 11:19",
-    "status": "สถานะ: รอชำระเงิน",
+    "status": "สถานะ: กำลังสั่งสินค้า",
     "shipping_type": "โดยเรือ",
     "order_note": null,
     "summary": {
@@ -552,7 +663,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11557",
-    "scraped_at": "24/06/2026 04:36:26",
+    "scraped_at": "25/06/2026 04:34:48",
     "order_id": "PN-1275#S11557",
     "date": "22/06/2026 10:43",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -620,10 +731,10 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11556",
-    "scraped_at": "24/06/2026 04:36:27",
+    "scraped_at": "25/06/2026 04:34:50",
     "order_id": "PN-1275#S11556",
     "date": "22/06/2026 10:42",
-    "status": "สถานะ: รอชำระเงิน",
+    "status": "สถานะ: กำลังสั่งสินค้า",
     "shipping_type": "โดยเรือ",
     "order_note": null,
     "summary": {
@@ -688,7 +799,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11544",
-    "scraped_at": "24/06/2026 04:36:28",
+    "scraped_at": "25/06/2026 04:34:51",
     "order_id": "PN-1275#S11544",
     "date": "19/06/2026 15:07",
     "status": "สถานะ: รอเลขขนส่งจีน",
@@ -744,7 +855,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11542",
-    "scraped_at": "24/06/2026 04:36:29",
+    "scraped_at": "25/06/2026 04:34:52",
     "order_id": "PN-1275#S11542",
     "date": "19/06/2026 11:38",
     "status": "สถานะ: รอเลขขนส่งจีน",
@@ -788,7 +899,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11541",
-    "scraped_at": "24/06/2026 04:36:30",
+    "scraped_at": "25/06/2026 04:34:53",
     "order_id": "PN-1275#S11541",
     "date": "19/06/2026 11:26",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -875,7 +986,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11540",
-    "scraped_at": "24/06/2026 04:36:31",
+    "scraped_at": "25/06/2026 04:34:54",
     "order_id": "PN-1275#S11540",
     "date": "19/06/2026 11:22",
     "status": "สถานะ: รอเลขขนส่งจีน",
@@ -943,7 +1054,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11539",
-    "scraped_at": "24/06/2026 04:36:34",
+    "scraped_at": "25/06/2026 04:34:57",
     "order_id": "PN-1275#S11539",
     "date": "19/06/2026 10:16",
     "status": "สถานะ: รอเลขขนส่งจีน",
@@ -1035,7 +1146,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11535",
-    "scraped_at": "24/06/2026 04:36:33",
+    "scraped_at": "25/06/2026 04:34:56",
     "order_id": "PN-1275#S11535",
     "date": "17/06/2026 16:00",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -1122,7 +1233,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11534",
-    "scraped_at": "24/06/2026 04:36:36",
+    "scraped_at": "25/06/2026 04:34:59",
     "order_id": "PN-1275#S11534",
     "date": "17/06/2026 15:55",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -1177,26 +1288,26 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=ZY202465069459-%E4%B8%AD%E9%80%9A",
             "tracking_id": "เลขพัสดุ : ZY202465069459-中通",
             "date": "22/06/26 : 17:01",
-            "status": "สถานะ: รอพัสดุเข้าโกดัง",
+            "status": "สถานะ: รอพัสดุถึงไทย",
             "product_description": null,
             "note": null,
             "box_type": "1",
-            "width": "0.00",
-            "length": "0.00",
-            "height": "0.00",
-            "weight": "0.00",
-            "volume": "0.0000",
-            "shipping_fee": "0.00",
+            "width": "41.00",
+            "length": "29.00",
+            "height": "28.00",
+            "weight": "12.00",
+            "volume": "0.0333",
+            "shipping_fee": "144.00",
             "crate_fee": "0.00",
             "check_fee": "0.00",
             "other_fee": "0.00",
             "discount": "0.00",
-            "total": "0.00",
+            "total": "144.00",
             "product_type": "ทั่วไป",
             "shipped_by": "เรือ",
-            "calculated_by": "-",
-            "shipping_rate": "0.00",
-            "total_net_thb": "0.00",
+            "calculated_by": "น้ำหนัก",
+            "shipping_rate": "12.00",
+            "total_net_thb": "144.00",
             "lot_id": null,
             "lot_container_close": null,
             "lot_status": null,
@@ -1209,7 +1320,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11533",
-    "scraped_at": "24/06/2026 04:36:37",
+    "scraped_at": "25/06/2026 04:35:00",
     "order_id": "PN-1275#S11533",
     "date": "17/06/2026 15:51",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -1288,31 +1399,31 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=435235223838158-%E9%9F%B5%E8%BE%BE",
             "tracking_id": "เลขพัสดุ : 435235223838158-韵达",
             "date": "22/06/26 : 17:01",
-            "status": "สถานะ: รอพัสดุเข้าโกดัง",
+            "status": "สถานะ: รอพัสดุถึงไทย",
             "product_description": null,
             "note": null,
             "box_type": "1",
-            "width": "0.00",
-            "length": "0.00",
-            "height": "0.00",
-            "weight": "0.00",
-            "volume": "0.0000",
-            "shipping_fee": "0.00",
+            "width": "38.00",
+            "length": "32.00",
+            "height": "12.00",
+            "weight": "11.00",
+            "volume": "0.0146",
+            "shipping_fee": "132.00",
             "crate_fee": "0.00",
             "check_fee": "0.00",
             "other_fee": "0.00",
             "discount": "0.00",
-            "total": "0.00",
+            "total": "132.00",
             "product_type": "ทั่วไป",
             "shipped_by": "เรือ",
-            "calculated_by": "-",
-            "shipping_rate": "0.00",
-            "total_net_thb": "0.00",
-            "lot_id": null,
-            "lot_container_close": null,
-            "lot_status": null,
-            "lot_departed_china": null,
-            "lot_arrived_thai": null
+            "calculated_by": "น้ำหนัก",
+            "shipping_rate": "12.00",
+            "total_net_thb": "132.00",
+            "lot_id": "S20260622-3083",
+            "lot_container_close": "22/06/2026",
+            "lot_status": "ออกจากจีน",
+            "lot_departed_china": "22/06/2026",
+            "lot_arrived_thai": "17/07/2026"
           }
         ]
       }
@@ -1320,7 +1431,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11532",
-    "scraped_at": "24/06/2026 04:36:40",
+    "scraped_at": "25/06/2026 04:35:03",
     "order_id": "PN-1275#S11532",
     "date": "17/06/2026 15:04",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -1407,7 +1518,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11531",
-    "scraped_at": "24/06/2026 04:36:41",
+    "scraped_at": "25/06/2026 04:35:05",
     "order_id": "PN-1275#S11531",
     "date": "17/06/2026 14:54",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -1450,7 +1561,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11528",
-    "scraped_at": "24/06/2026 04:36:43",
+    "scraped_at": "25/06/2026 04:35:07",
     "order_id": "PN-1275#S11528",
     "date": "17/06/2026 14:43",
     "status": "สถานะ: รอเลขขนส่งจีน",
@@ -1518,7 +1629,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11529",
-    "scraped_at": "24/06/2026 04:36:44",
+    "scraped_at": "25/06/2026 04:35:07",
     "order_id": "PN-1275#S11529",
     "date": "17/06/2026 14:43",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -1561,31 +1672,31 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=YT7628634928967-%E5%9C%86%E9%80%9A",
             "tracking_id": "เลขพัสดุ : YT7628634928967-圆通",
             "date": "22/06/26 : 17:02",
-            "status": "สถานะ: รอพัสดุเข้าโกดัง",
+            "status": "สถานะ: รอพัสดุถึงไทย",
             "product_description": null,
             "note": null,
             "box_type": "1",
-            "width": "0.00",
-            "length": "0.00",
-            "height": "0.00",
-            "weight": "0.00",
-            "volume": "0.0000",
-            "shipping_fee": "0.00",
+            "width": "42.00",
+            "length": "38.00",
+            "height": "16.00",
+            "weight": "3.80",
+            "volume": "0.0255",
+            "shipping_fee": "97.04",
             "crate_fee": "0.00",
             "check_fee": "0.00",
             "other_fee": "0.00",
             "discount": "0.00",
-            "total": "0.00",
+            "total": "97.04",
             "product_type": "ทั่วไป",
             "shipped_by": "เรือ",
-            "calculated_by": "-",
-            "shipping_rate": "0.00",
-            "total_net_thb": "0.00",
-            "lot_id": null,
-            "lot_container_close": null,
-            "lot_status": null,
-            "lot_departed_china": null,
-            "lot_arrived_thai": null
+            "calculated_by": "ปริมาตร",
+            "shipping_rate": "3,800.00",
+            "total_net_thb": "97.04",
+            "lot_id": "S20260622-3083",
+            "lot_container_close": "22/06/2026",
+            "lot_status": "ออกจากจีน",
+            "lot_departed_china": "22/06/2026",
+            "lot_arrived_thai": "17/07/2026"
           }
         ]
       }
@@ -1593,7 +1704,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11522",
-    "scraped_at": "24/06/2026 04:36:47",
+    "scraped_at": "25/06/2026 04:35:11",
     "order_id": "PN-1275#S11522",
     "date": "17/06/2026 11:28",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -1637,7 +1748,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11517",
-    "scraped_at": "24/06/2026 04:36:45",
+    "scraped_at": "25/06/2026 04:35:09",
     "order_id": "PN-1275#S11517",
     "date": "15/06/2026 14:52",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -1728,31 +1839,31 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=JT3167676323925-%E6%9E%81%E5%85%94",
             "tracking_id": "เลขพัสดุ : JT3167676323925-极兔",
             "date": "22/06/26 : 17:04",
-            "status": "สถานะ: รอพัสดุเข้าโกดัง",
+            "status": "สถานะ: รอพัสดุถึงไทย",
             "product_description": null,
             "note": null,
             "box_type": "1",
-            "width": "0.00",
-            "length": "0.00",
-            "height": "0.00",
-            "weight": "0.00",
-            "volume": "0.0000",
-            "shipping_fee": "0.00",
+            "width": "33.00",
+            "length": "26.00",
+            "height": "21.00",
+            "weight": "3.00",
+            "volume": "0.0180",
+            "shipping_fee": "68.47",
             "crate_fee": "0.00",
             "check_fee": "0.00",
             "other_fee": "0.00",
             "discount": "0.00",
-            "total": "0.00",
+            "total": "68.47",
             "product_type": "ทั่วไป",
             "shipped_by": "เรือ",
-            "calculated_by": "-",
-            "shipping_rate": "0.00",
-            "total_net_thb": "0.00",
-            "lot_id": null,
-            "lot_container_close": null,
-            "lot_status": null,
-            "lot_departed_china": null,
-            "lot_arrived_thai": null
+            "calculated_by": "ปริมาตร",
+            "shipping_rate": "3,800.00",
+            "total_net_thb": "68.47",
+            "lot_id": "S20260622-3083",
+            "lot_container_close": "22/06/2026",
+            "lot_status": "ออกจากจีน",
+            "lot_departed_china": "22/06/2026",
+            "lot_arrived_thai": "17/07/2026"
           }
         ]
       }
@@ -1760,7 +1871,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11516",
-    "scraped_at": "24/06/2026 04:36:49",
+    "scraped_at": "25/06/2026 04:35:13",
     "order_id": "PN-1275#S11516",
     "date": "15/06/2026 11:49",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -1802,26 +1913,26 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=773427873765729-%E7%94%B3%E9%80%9A",
             "tracking_id": "เลขพัสดุ : 773427873765729-申通",
             "date": "22/06/26 : 17:05",
-            "status": "สถานะ: รอพัสดุเข้าโกดัง",
+            "status": "สถานะ: รอพัสดุถึงไทย",
             "product_description": null,
             "note": null,
             "box_type": "1",
-            "width": "0.00",
-            "length": "0.00",
-            "height": "0.00",
-            "weight": "0.00",
-            "volume": "0.0000",
-            "shipping_fee": "0.00",
+            "width": "31.00",
+            "length": "23.00",
+            "height": "21.00",
+            "weight": "2.80",
+            "volume": "0.0150",
+            "shipping_fee": "56.90",
             "crate_fee": "0.00",
             "check_fee": "0.00",
             "other_fee": "0.00",
             "discount": "0.00",
-            "total": "0.00",
+            "total": "56.90",
             "product_type": "ทั่วไป",
             "shipped_by": "เรือ",
-            "calculated_by": "-",
-            "shipping_rate": "0.00",
-            "total_net_thb": "0.00",
+            "calculated_by": "ปริมาตร",
+            "shipping_rate": "3,800.00",
+            "total_net_thb": "56.90",
             "lot_id": null,
             "lot_container_close": null,
             "lot_status": null,
@@ -1834,7 +1945,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11515",
-    "scraped_at": "24/06/2026 04:36:49",
+    "scraped_at": "25/06/2026 04:35:13",
     "order_id": "PN-1275#S11515",
     "date": "15/06/2026 11:33",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -1876,26 +1987,26 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=YT7628357158980-%E5%9C%86%E9%80%9A",
             "tracking_id": "เลขพัสดุ : YT7628357158980-圆通",
             "date": "20/06/26 : 14:51",
-            "status": "สถานะ: รอพัสดุเข้าโกดัง",
+            "status": "สถานะ: รอพัสดุถึงไทย",
             "product_description": null,
             "note": null,
             "box_type": "1",
-            "width": "0.00",
-            "length": "0.00",
-            "height": "0.00",
-            "weight": "0.00",
-            "volume": "0.0000",
-            "shipping_fee": "0.00",
+            "width": "15.00",
+            "length": "45.00",
+            "height": "9.00",
+            "weight": "0.90",
+            "volume": "0.0061",
+            "shipping_fee": "23.09",
             "crate_fee": "0.00",
             "check_fee": "0.00",
             "other_fee": "0.00",
             "discount": "0.00",
-            "total": "0.00",
+            "total": "23.09",
             "product_type": "ทั่วไป",
             "shipped_by": "เรือ",
-            "calculated_by": "-",
-            "shipping_rate": "0.00",
-            "total_net_thb": "0.00",
+            "calculated_by": "ปริมาตร",
+            "shipping_rate": "3,800.00",
+            "total_net_thb": "23.09",
             "lot_id": null,
             "lot_container_close": null,
             "lot_status": null,
@@ -1908,7 +2019,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11514",
-    "scraped_at": "24/06/2026 04:36:53",
+    "scraped_at": "25/06/2026 04:35:17",
     "order_id": "PN-1275#S11514",
     "date": "15/06/2026 11:17",
     "status": "สถานะ: รอเลขขนส่งจีน",
@@ -1951,7 +2062,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11513",
-    "scraped_at": "24/06/2026 04:36:53",
+    "scraped_at": "25/06/2026 04:35:17",
     "order_id": "PN-1275#S11513",
     "date": "15/06/2026 11:15",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2026,7 +2137,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11512",
-    "scraped_at": "24/06/2026 04:36:55",
+    "scraped_at": "25/06/2026 04:35:19",
     "order_id": "PN-1275#S11512",
     "date": "15/06/2026 10:41",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2100,7 +2211,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11510",
-    "scraped_at": "24/06/2026 04:36:59",
+    "scraped_at": "25/06/2026 04:35:23",
     "order_id": "PN-1275#S11510",
     "date": "15/06/2026 08:49",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2187,7 +2298,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11511",
-    "scraped_at": "24/06/2026 04:36:57",
+    "scraped_at": "25/06/2026 04:35:21",
     "order_id": "PN-1275#S11511",
     "date": "15/06/2026 08:49",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2242,26 +2353,26 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=773427415517797-%E7%94%B3%E9%80%9A",
             "tracking_id": "เลขพัสดุ : 773427415517797-申通",
             "date": "20/06/26 : 14:49",
-            "status": "สถานะ: รอพัสดุเข้าโกดัง",
+            "status": "สถานะ: รอพัสดุถึงไทย",
             "product_description": null,
             "note": null,
             "box_type": "1",
-            "width": "0.00",
-            "length": "0.00",
-            "height": "0.00",
-            "weight": "0.00",
-            "volume": "0.0000",
-            "shipping_fee": "0.00",
+            "width": "19.00",
+            "length": "16.00",
+            "height": "10.00",
+            "weight": "3.30",
+            "volume": "0.0030",
+            "shipping_fee": "59.40",
             "crate_fee": "0.00",
             "check_fee": "0.00",
             "other_fee": "0.00",
             "discount": "0.00",
-            "total": "0.00",
+            "total": "59.40",
             "product_type": "ทั่วไป",
             "shipped_by": "รถ",
-            "calculated_by": "-",
-            "shipping_rate": "0.00",
-            "total_net_thb": "0.00",
+            "calculated_by": "น้ำหนัก",
+            "shipping_rate": "18.00",
+            "total_net_thb": "59.40",
             "lot_id": null,
             "lot_container_close": null,
             "lot_status": null,
@@ -2274,7 +2385,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11501",
-    "scraped_at": "24/06/2026 04:37:01",
+    "scraped_at": "25/06/2026 04:35:26",
     "order_id": "PN-1275#S11501",
     "date": "11/06/2026 11:07",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2421,7 +2532,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11500",
-    "scraped_at": "24/06/2026 04:37:03",
+    "scraped_at": "25/06/2026 04:35:28",
     "order_id": "PN-1275#S11500",
     "date": "11/06/2026 10:11",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2476,26 +2587,26 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=435232219457839-%E9%9F%B5%E8%BE%BE",
             "tracking_id": "เลขพัสดุ : 435232219457839-韵达",
             "date": "20/06/26 : 14:46",
-            "status": "สถานะ: รอพัสดุเข้าโกดัง",
+            "status": "สถานะ: รอพัสดุถึงไทย",
             "product_description": null,
             "note": null,
             "box_type": "1",
-            "width": "0.00",
-            "length": "0.00",
-            "height": "0.00",
-            "weight": "0.00",
-            "volume": "0.0000",
-            "shipping_fee": "0.00",
+            "width": "15.00",
+            "length": "45.00",
+            "height": "9.00",
+            "weight": "4.00",
+            "volume": "0.0061",
+            "shipping_fee": "48.00",
             "crate_fee": "0.00",
             "check_fee": "0.00",
             "other_fee": "0.00",
             "discount": "0.00",
-            "total": "0.00",
+            "total": "48.00",
             "product_type": "ทั่วไป",
             "shipped_by": "เรือ",
-            "calculated_by": "-",
-            "shipping_rate": "0.00",
-            "total_net_thb": "0.00",
+            "calculated_by": "น้ำหนัก",
+            "shipping_rate": "12.00",
+            "total_net_thb": "48.00",
             "lot_id": null,
             "lot_container_close": null,
             "lot_status": null,
@@ -2508,7 +2619,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11498",
-    "scraped_at": "24/06/2026 04:37:05",
+    "scraped_at": "25/06/2026 04:35:30",
     "order_id": "PN-1275#S11498",
     "date": "11/06/2026 09:37",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2575,26 +2686,26 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=773427400883050-%E7%94%B3%E9%80%9A",
             "tracking_id": "เลขพัสดุ : 773427400883050-申通",
             "date": "20/06/26 : 14:45",
-            "status": "สถานะ: รอพัสดุเข้าโกดัง",
+            "status": "สถานะ: รอพัสดุถึงไทย",
             "product_description": null,
             "note": null,
             "box_type": "1",
-            "width": "0.00",
-            "length": "0.00",
-            "height": "0.00",
-            "weight": "0.00",
-            "volume": "0.0000",
-            "shipping_fee": "0.00",
+            "width": "15.00",
+            "length": "45.00",
+            "height": "9.00",
+            "weight": "5.80",
+            "volume": "0.0061",
+            "shipping_fee": "69.60",
             "crate_fee": "0.00",
             "check_fee": "0.00",
             "other_fee": "0.00",
             "discount": "0.00",
-            "total": "0.00",
+            "total": "69.60",
             "product_type": "ทั่วไป",
             "shipped_by": "เรือ",
-            "calculated_by": "-",
-            "shipping_rate": "0.00",
-            "total_net_thb": "0.00",
+            "calculated_by": "น้ำหนัก",
+            "shipping_rate": "12.00",
+            "total_net_thb": "69.60",
             "lot_id": null,
             "lot_container_close": null,
             "lot_status": null,
@@ -2607,7 +2718,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11495",
-    "scraped_at": "24/06/2026 04:37:07",
+    "scraped_at": "25/06/2026 04:35:32",
     "order_id": "PN-1275#S11495",
     "date": "10/06/2026 16:37",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -2663,7 +2774,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11494",
-    "scraped_at": "24/06/2026 04:37:09",
+    "scraped_at": "25/06/2026 04:35:35",
     "order_id": "PN-1275#S11494",
     "date": "10/06/2026 15:00",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -2719,7 +2830,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11493",
-    "scraped_at": "24/06/2026 04:37:09",
+    "scraped_at": "25/06/2026 04:35:34",
     "order_id": "PN-1275#S11493",
     "date": "10/06/2026 14:58",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -2775,7 +2886,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11492",
-    "scraped_at": "24/06/2026 04:37:11",
+    "scraped_at": "25/06/2026 04:35:37",
     "order_id": "PN-1275#S11492",
     "date": "10/06/2026 12:50",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -2819,7 +2930,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11491",
-    "scraped_at": "24/06/2026 04:37:11",
+    "scraped_at": "25/06/2026 04:35:36",
     "order_id": "PN-1275#S11491",
     "date": "10/06/2026 12:27",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2894,7 +3005,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11490",
-    "scraped_at": "24/06/2026 04:37:13",
+    "scraped_at": "25/06/2026 04:35:39",
     "order_id": "PN-1275#S11490",
     "date": "10/06/2026 11:10",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -2968,7 +3079,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11489",
-    "scraped_at": "24/06/2026 04:37:15",
+    "scraped_at": "25/06/2026 04:35:40",
     "order_id": "PN-1275#S11489",
     "date": "10/06/2026 11:08",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3043,7 +3154,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11488",
-    "scraped_at": "24/06/2026 04:37:17",
+    "scraped_at": "25/06/2026 04:35:43",
     "order_id": "PN-1275#S11488",
     "date": "10/06/2026 10:58",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -3099,7 +3210,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11487",
-    "scraped_at": "24/06/2026 04:37:19",
+    "scraped_at": "25/06/2026 04:35:45",
     "order_id": "PN-1275#S11487",
     "date": "10/06/2026 10:57",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -3155,7 +3266,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11486",
-    "scraped_at": "24/06/2026 04:37:19",
+    "scraped_at": "25/06/2026 04:35:46",
     "order_id": "PN-1275#S11486",
     "date": "10/06/2026 10:53",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -3211,7 +3322,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11483",
-    "scraped_at": "24/06/2026 04:37:21",
+    "scraped_at": "25/06/2026 04:35:47",
     "order_id": "PN-1275#S11483",
     "date": "09/06/2026 16:00",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -3267,7 +3378,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11467",
-    "scraped_at": "24/06/2026 04:37:21",
+    "scraped_at": "25/06/2026 04:35:48",
     "order_id": "PN-1275#S11467",
     "date": "09/06/2026 11:05",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3342,7 +3453,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11466",
-    "scraped_at": "24/06/2026 04:37:23",
+    "scraped_at": "25/06/2026 04:35:49",
     "order_id": "PN-1275#S11466",
     "date": "09/06/2026 10:54",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3409,7 +3520,7 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=79010803881622-%E4%B8%AD%E9%80%9A",
             "tracking_id": "เลขพัสดุ : 79010803881622-中通",
             "date": "19/06/26 : 11:56",
-            "status": "สถานะ: รอชำระเงิน",
+            "status": "สถานะ: เตรียมส่ง",
             "product_description": null,
             "note": null,
             "box_type": "1",
@@ -3441,7 +3552,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11465",
-    "scraped_at": "24/06/2026 04:37:25",
+    "scraped_at": "25/06/2026 04:35:52",
     "order_id": "PN-1275#S11465",
     "date": "09/06/2026 10:44",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -3521,7 +3632,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11464",
-    "scraped_at": "24/06/2026 04:37:27",
+    "scraped_at": "25/06/2026 04:35:53",
     "order_id": "PN-1275#S11464",
     "date": "09/06/2026 10:25",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3620,7 +3731,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11463",
-    "scraped_at": "24/06/2026 04:37:27",
+    "scraped_at": "25/06/2026 04:35:54",
     "order_id": "PN-1275#S11463",
     "date": "09/06/2026 10:11",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3707,7 +3818,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11462",
-    "scraped_at": "24/06/2026 04:37:31",
+    "scraped_at": "25/06/2026 04:35:57",
     "order_id": "PN-1275#S11462",
     "date": "09/06/2026 10:07",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3782,7 +3893,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11461",
-    "scraped_at": "24/06/2026 04:37:31",
+    "scraped_at": "25/06/2026 04:35:58",
     "order_id": "PN-1275#S11461",
     "date": "09/06/2026 10:02",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3857,7 +3968,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11460",
-    "scraped_at": "24/06/2026 04:37:35",
+    "scraped_at": "25/06/2026 04:36:01",
     "order_id": "PN-1275#S11460",
     "date": "09/06/2026 10:01",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -3992,7 +4103,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11458",
-    "scraped_at": "24/06/2026 04:37:35",
+    "scraped_at": "25/06/2026 04:36:02",
     "order_id": "PN-1275#S11458",
     "date": "09/06/2026 09:58",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -4071,7 +4182,7 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=435220034303651-%E9%9F%B5%E8%BE%BE",
             "tracking_id": "เลขพัสดุ : 435220034303651-韵达",
             "date": "13/06/26 : 19:46",
-            "status": "สถานะ: รอพัสดุถึงไทย",
+            "status": "สถานะ: เตรียมส่ง",
             "product_description": null,
             "note": null,
             "box_type": "1",
@@ -4080,22 +4191,22 @@
             "height": "10.00",
             "weight": "2.50",
             "volume": "0.0053",
-            "shipping_fee": "45.00",
+            "shipping_fee": "30.00",
             "crate_fee": "0.00",
             "check_fee": "0.00",
             "other_fee": "0.00",
             "discount": "0.00",
-            "total": "45.00",
+            "total": "30.00",
             "product_type": "ทั่วไป",
-            "shipped_by": "รถ",
+            "shipped_by": "เรือ",
             "calculated_by": "น้ำหนัก",
-            "shipping_rate": "18.00",
-            "total_net_thb": "45.00",
+            "shipping_rate": "12.00",
+            "total_net_thb": "30.00",
             "lot_id": "E20260617-1790",
             "lot_container_close": "17/06/2026",
-            "lot_status": "ออกจากจีน",
+            "lot_status": "ถึงไทย",
             "lot_departed_china": "17/06/2026",
-            "lot_arrived_thai": "27/06/2026"
+            "lot_arrived_thai": "25/06/2026"
           }
         ]
       }
@@ -4103,7 +4214,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11457",
-    "scraped_at": "24/06/2026 04:37:43",
+    "scraped_at": "25/06/2026 04:36:09",
     "order_id": "PN-1275#S11457",
     "date": "09/06/2026 09:41",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -4146,7 +4257,7 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=JT0024094908563-%E6%9E%81%E5%85%94",
             "tracking_id": "เลขพัสดุ : JT0024094908563-极兔",
             "date": "13/06/26 : 19:45",
-            "status": "สถานะ: รอพัสดุถึงไทย",
+            "status": "สถานะ: เตรียมส่ง",
             "product_description": null,
             "note": null,
             "box_type": "1",
@@ -4155,22 +4266,22 @@
             "height": "9.00",
             "weight": "2.70",
             "volume": "0.0026",
-            "shipping_fee": "48.60",
+            "shipping_fee": "32.40",
             "crate_fee": "0.00",
             "check_fee": "0.00",
             "other_fee": "0.00",
             "discount": "0.00",
-            "total": "48.60",
+            "total": "32.40",
             "product_type": "ทั่วไป",
-            "shipped_by": "รถ",
+            "shipped_by": "เรือ",
             "calculated_by": "น้ำหนัก",
-            "shipping_rate": "18.00",
-            "total_net_thb": "48.60",
+            "shipping_rate": "12.00",
+            "total_net_thb": "32.40",
             "lot_id": "E20260617-1790",
             "lot_container_close": "17/06/2026",
-            "lot_status": "ออกจากจีน",
+            "lot_status": "ถึงไทย",
             "lot_departed_china": "17/06/2026",
-            "lot_arrived_thai": "27/06/2026"
+            "lot_arrived_thai": "25/06/2026"
           }
         ]
       }
@@ -4178,7 +4289,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11455",
-    "scraped_at": "24/06/2026 04:37:39",
+    "scraped_at": "25/06/2026 04:36:07",
     "order_id": "PN-1275#S11455",
     "date": "08/06/2026 17:37",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -4265,7 +4376,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11454",
-    "scraped_at": "24/06/2026 04:37:47",
+    "scraped_at": "25/06/2026 04:36:14",
     "order_id": "PN-1275#S11454",
     "date": "08/06/2026 17:21",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -4382,7 +4493,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11453",
-    "scraped_at": "24/06/2026 04:37:43",
+    "scraped_at": "25/06/2026 04:36:11",
     "order_id": "PN-1275#S11453",
     "date": "08/06/2026 17:12",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -4449,31 +4560,31 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=773426152770844-%E7%94%B3%E9%80%9A",
             "tracking_id": "เลขพัสดุ : 773426152770844-申通",
             "date": "13/06/26 : 19:42",
-            "status": "สถานะ: รอพัสดุถึงไทย",
+            "status": "สถานะ: เตรียมส่ง",
             "product_description": null,
             "note": null,
             "box_type": "1",
             "width": "12.00",
             "length": "16.00",
             "height": "11.00",
-            "weight": "0.90",
+            "weight": "1.00",
             "volume": "0.0021",
-            "shipping_fee": "16.20",
+            "shipping_fee": "12.00",
             "crate_fee": "0.00",
             "check_fee": "0.00",
             "other_fee": "0.00",
             "discount": "0.00",
-            "total": "16.20",
+            "total": "12.00",
             "product_type": "ทั่วไป",
-            "shipped_by": "รถ",
+            "shipped_by": "เรือ",
             "calculated_by": "น้ำหนัก",
-            "shipping_rate": "18.00",
-            "total_net_thb": "16.20",
+            "shipping_rate": "12.00",
+            "total_net_thb": "12.00",
             "lot_id": "E20260617-1790",
             "lot_container_close": "17/06/2026",
-            "lot_status": "ออกจากจีน",
+            "lot_status": "ถึงไทย",
             "lot_departed_china": "17/06/2026",
-            "lot_arrived_thai": "27/06/2026"
+            "lot_arrived_thai": "25/06/2026"
           }
         ]
       }
@@ -4481,7 +4592,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11452",
-    "scraped_at": "24/06/2026 04:37:52",
+    "scraped_at": "25/06/2026 04:36:20",
     "order_id": "PN-1275#S11452",
     "date": "08/06/2026 16:28",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -4556,7 +4667,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11450",
-    "scraped_at": "24/06/2026 04:37:47",
+    "scraped_at": "25/06/2026 04:36:15",
     "order_id": "PN-1275#S11450",
     "date": "08/06/2026 16:21",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -4631,7 +4742,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11449",
-    "scraped_at": "24/06/2026 04:37:56",
+    "scraped_at": "25/06/2026 04:36:24",
     "order_id": "PN-1275#S11449",
     "date": "08/06/2026 16:11",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -4687,7 +4798,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11448",
-    "scraped_at": "24/06/2026 04:37:51",
+    "scraped_at": "25/06/2026 04:36:19",
     "order_id": "PN-1275#S11448",
     "date": "08/06/2026 16:03",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -4762,7 +4873,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11447",
-    "scraped_at": "24/06/2026 04:37:58",
+    "scraped_at": "25/06/2026 04:36:26",
     "order_id": "PN-1275#S11447",
     "date": "08/06/2026 15:13",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -4806,7 +4917,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11446",
-    "scraped_at": "24/06/2026 04:37:55",
+    "scraped_at": "25/06/2026 04:36:23",
     "order_id": "PN-1275#S11446",
     "date": "08/06/2026 15:10",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -4886,7 +4997,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11444",
-    "scraped_at": "24/06/2026 04:38:00",
+    "scraped_at": "25/06/2026 04:36:28",
     "order_id": "PN-1275#S11444",
     "date": "08/06/2026 11:07",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -4929,7 +5040,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11438",
-    "scraped_at": "24/06/2026 04:37:57",
+    "scraped_at": "25/06/2026 04:36:25",
     "order_id": "PN-1275#S11438",
     "date": "06/06/2026 16:26",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -4996,7 +5107,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11437",
-    "scraped_at": "24/06/2026 04:38:02",
+    "scraped_at": "25/06/2026 04:36:30",
     "order_id": "PN-1275#S11437",
     "date": "06/06/2026 16:25",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -5076,7 +5187,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11435",
-    "scraped_at": "24/06/2026 04:37:59",
+    "scraped_at": "25/06/2026 04:36:27",
     "order_id": "PN-1275#S11435",
     "date": "06/06/2026 12:03",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -5144,7 +5255,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11434",
-    "scraped_at": "24/06/2026 04:38:04",
+    "scraped_at": "25/06/2026 04:36:32",
     "order_id": "PN-1275#S11434",
     "date": "06/06/2026 12:00",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -5248,7 +5359,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11433",
-    "scraped_at": "24/06/2026 04:38:01",
+    "scraped_at": "25/06/2026 04:36:29",
     "order_id": "PN-1275#S11433",
     "date": "06/06/2026 11:52",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5371,7 +5482,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11432",
-    "scraped_at": "24/06/2026 04:38:07",
+    "scraped_at": "25/06/2026 04:36:35",
     "order_id": "PN-1275#S11432",
     "date": "06/06/2026 11:08",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5530,7 +5641,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11431",
-    "scraped_at": "24/06/2026 04:38:05",
+    "scraped_at": "25/06/2026 04:36:34",
     "order_id": "PN-1275#S11431",
     "date": "06/06/2026 10:41",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5629,7 +5740,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11430",
-    "scraped_at": "24/06/2026 04:38:14",
+    "scraped_at": "25/06/2026 04:36:43",
     "order_id": "PN-1275#S11430",
     "date": "06/06/2026 10:29",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -5673,7 +5784,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11429",
-    "scraped_at": "24/06/2026 04:38:09",
+    "scraped_at": "25/06/2026 04:36:38",
     "order_id": "PN-1275#S11429",
     "date": "06/06/2026 10:27",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5748,7 +5859,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11428",
-    "scraped_at": "24/06/2026 04:38:16",
+    "scraped_at": "25/06/2026 04:36:45",
     "order_id": "PN-1275#S11428",
     "date": "06/06/2026 10:23",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5791,7 +5902,7 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=435222563097458-%E9%9F%B5%E8%BE%BE",
             "tracking_id": "เลขพัสดุ : 435222563097458-韵达",
             "date": "13/06/26 : 15:18",
-            "status": "สถานะ: รอพัสดุถึงไทย",
+            "status": "สถานะ: เตรียมส่ง",
             "product_description": null,
             "note": null,
             "box_type": "1",
@@ -5823,7 +5934,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11427",
-    "scraped_at": "24/06/2026 04:38:13",
+    "scraped_at": "25/06/2026 04:36:42",
     "order_id": "PN-1275#S11427",
     "date": "06/06/2026 10:23",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -5875,17 +5986,17 @@
             "height": "30.00",
             "weight": "11.00",
             "volume": "0.0331",
-            "shipping_fee": "198.00",
+            "shipping_fee": "132.00",
             "crate_fee": "0.00",
             "check_fee": "0.00",
             "other_fee": "0.00",
             "discount": "0.00",
-            "total": "198.00",
+            "total": "132.00",
             "product_type": "พิเศษ 1",
-            "shipped_by": "รถ",
+            "shipped_by": "เรือ",
             "calculated_by": "น้ำหนัก",
-            "shipping_rate": "18.00",
-            "total_net_thb": "198.00",
+            "shipping_rate": "12.00",
+            "total_net_thb": "132.00",
             "lot_id": "E20260614-716",
             "lot_container_close": "14/06/2026",
             "lot_status": "ออกจากจีน",
@@ -5898,7 +6009,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11426",
-    "scraped_at": "24/06/2026 04:38:20",
+    "scraped_at": "25/06/2026 04:36:49",
     "order_id": "PN-1275#S11426",
     "date": "06/06/2026 10:05",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -5954,7 +6065,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11422",
-    "scraped_at": "24/06/2026 04:38:17",
+    "scraped_at": "25/06/2026 04:36:46",
     "order_id": "PN-1275#S11422",
     "date": "04/06/2026 16:05",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6029,7 +6140,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11404",
-    "scraped_at": "24/06/2026 04:38:22",
+    "scraped_at": "25/06/2026 04:36:51",
     "order_id": "PN-1275#S11404",
     "date": "01/06/2026 17:22",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6082,7 +6193,7 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=JT3166173720371-%E6%9E%81%E5%85%94",
             "tracking_id": "เลขพัสดุ : JT3166173720371-极兔",
             "date": "09/06/26 : 09:44",
-            "status": "สถานะ: รอชำระเงิน",
+            "status": "สถานะ: เตรียมส่ง",
             "product_description": null,
             "note": null,
             "box_type": "1",
@@ -6114,7 +6225,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11395",
-    "scraped_at": "24/06/2026 04:38:21",
+    "scraped_at": "25/06/2026 04:36:50",
     "order_id": "PN-1275#S11395",
     "date": "30/05/2026 14:00",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6201,7 +6312,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11394",
-    "scraped_at": "24/06/2026 04:38:26",
+    "scraped_at": "25/06/2026 04:36:55",
     "order_id": "PN-1275#S11394",
     "date": "29/05/2026 15:10",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6324,7 +6435,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11393",
-    "scraped_at": "24/06/2026 04:38:24",
+    "scraped_at": "25/06/2026 04:36:54",
     "order_id": "PN-1275#S11393",
     "date": "29/05/2026 11:53",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6585,7 +6696,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11392",
-    "scraped_at": "24/06/2026 04:38:30",
+    "scraped_at": "25/06/2026 04:36:59",
     "order_id": "PN-1275#S11392",
     "date": "29/05/2026 09:47",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6758,7 +6869,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11390",
-    "scraped_at": "24/06/2026 04:38:31",
+    "scraped_at": "25/06/2026 04:37:01",
     "order_id": "PN-1275#S11390",
     "date": "28/05/2026 14:44",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -6865,7 +6976,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11389",
-    "scraped_at": "24/06/2026 04:38:34",
+    "scraped_at": "25/06/2026 04:37:04",
     "order_id": "PN-1275#S11389",
     "date": "28/05/2026 14:41",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -7031,7 +7142,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11388",
-    "scraped_at": "24/06/2026 04:38:35",
+    "scraped_at": "25/06/2026 04:37:06",
     "order_id": "PN-1275#S11388",
     "date": "28/05/2026 14:40",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -7243,7 +7354,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11387",
-    "scraped_at": "24/06/2026 04:38:39",
+    "scraped_at": "25/06/2026 04:37:09",
     "order_id": "PN-1275#S11387",
     "date": "28/05/2026 13:11",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -7287,7 +7398,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11386",
-    "scraped_at": "24/06/2026 04:38:38",
+    "scraped_at": "25/06/2026 04:37:09",
     "order_id": "PN-1275#S11386",
     "date": "28/05/2026 12:14",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -7362,7 +7473,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11380",
-    "scraped_at": "24/06/2026 04:38:41",
+    "scraped_at": "25/06/2026 04:37:11",
     "order_id": "PN-1275#S11380",
     "date": "26/05/2026 17:11",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -7437,7 +7548,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11373",
-    "scraped_at": "24/06/2026 04:38:42",
+    "scraped_at": "25/06/2026 04:37:13",
     "order_id": "PN-1275#S11373",
     "date": "26/05/2026 11:58",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -7479,7 +7590,7 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=JT3166469898204-%E6%9E%81%E5%85%94",
             "tracking_id": "เลขพัสดุ : JT3166469898204-极兔",
             "date": "13/06/26 : 19:57",
-            "status": "สถานะ: รอพัสดุถึงไทย",
+            "status": "สถานะ: เตรียมส่ง",
             "product_description": null,
             "note": null,
             "box_type": "1",
@@ -7501,9 +7612,9 @@
             "total_net_thb": "68.40",
             "lot_id": "E20260614-1787",
             "lot_container_close": "14/06/2026",
-            "lot_status": "ออกจากจีน",
+            "lot_status": "ถึงไทย",
             "lot_departed_china": "14/06/2026",
-            "lot_arrived_thai": "26/06/2026"
+            "lot_arrived_thai": "24/06/2026"
           }
         ]
       }
@@ -7511,7 +7622,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11372",
-    "scraped_at": "24/06/2026 04:38:45",
+    "scraped_at": "25/06/2026 04:37:15",
     "order_id": "PN-1275#S11372",
     "date": "26/05/2026 11:27",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -7598,7 +7709,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11371",
-    "scraped_at": "24/06/2026 04:38:46",
+    "scraped_at": "25/06/2026 04:37:17",
     "order_id": "PN-1275#S11371",
     "date": "26/05/2026 11:23",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -7654,7 +7765,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11370",
-    "scraped_at": "24/06/2026 04:38:49",
+    "scraped_at": "25/06/2026 04:37:19",
     "order_id": "PN-1275#S11370",
     "date": "26/05/2026 11:16",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -7698,7 +7809,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11369",
-    "scraped_at": "24/06/2026 04:38:48",
+    "scraped_at": "25/06/2026 04:37:19",
     "order_id": "PN-1275#S11369",
     "date": "26/05/2026 11:12",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -7987,7 +8098,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11368",
-    "scraped_at": "24/06/2026 04:38:51",
+    "scraped_at": "25/06/2026 04:37:21",
     "order_id": "PN-1275#S11368",
     "date": "26/05/2026 10:48",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -8030,7 +8141,7 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=800200634446-%E4%B8%AD%E9%80%9A",
             "tracking_id": "เลขพัสดุ : 800200634446-中通",
             "date": "09/06/26 : 09:26",
-            "status": "สถานะ: รอชำระเงิน",
+            "status": "สถานะ: เตรียมส่ง",
             "product_description": null,
             "note": null,
             "box_type": "1",
@@ -8062,7 +8173,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11367",
-    "scraped_at": "24/06/2026 04:38:53",
+    "scraped_at": "25/06/2026 04:37:25",
     "order_id": "PN-1275#S11367",
     "date": "26/05/2026 10:17",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -8377,7 +8488,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11366",
-    "scraped_at": "24/06/2026 04:38:54",
+    "scraped_at": "25/06/2026 04:37:25",
     "order_id": "PN-1275#S11366",
     "date": "26/05/2026 09:26",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -8452,7 +8563,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11365",
-    "scraped_at": "24/06/2026 04:38:58",
+    "scraped_at": "25/06/2026 04:37:31",
     "order_id": "PN-1275#S11365",
     "date": "26/05/2026 09:20",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -8507,7 +8618,7 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=299243801-%E9%9F%B5%E8%BE%BE-1%2F2",
             "tracking_id": "เลขพัสดุ : 299243801-韵达-1/2",
             "date": "02/06/26 : 09:08",
-            "status": "สถานะ: รอชำระเงิน",
+            "status": "สถานะ: เตรียมส่ง",
             "product_description": null,
             "note": null,
             "box_type": "1",
@@ -8537,7 +8648,7 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=299243801-%E9%9F%B5%E8%BE%BE-2%2F2",
             "tracking_id": "เลขพัสดุ : 299243801-韵达-2/2",
             "date": "02/06/26 : 09:08",
-            "status": "สถานะ: รอชำระเงิน",
+            "status": "สถานะ: เตรียมส่ง",
             "product_description": null,
             "note": null,
             "box_type": "1",
@@ -8569,7 +8680,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11364",
-    "scraped_at": "24/06/2026 04:38:58",
+    "scraped_at": "25/06/2026 04:37:29",
     "order_id": "PN-1275#S11364",
     "date": "26/05/2026 08:56",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -8613,7 +8724,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11363",
-    "scraped_at": "24/06/2026 04:39:04",
+    "scraped_at": "25/06/2026 04:37:37",
     "order_id": "PN-1275#S11363",
     "date": "26/05/2026 08:53",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -8666,7 +8777,7 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=DPK212669845251-%E5%BE%B7%E9%82%A6",
             "tracking_id": "เลขพัสดุ : DPK212669845251-德邦",
             "date": "03/06/26 : 11:57",
-            "status": "สถานะ: รอพัสดุถึงไทย",
+            "status": "สถานะ: เตรียมส่ง",
             "product_description": null,
             "note": null,
             "box_type": "1",
@@ -8688,9 +8799,9 @@
             "total_net_thb": "72.00",
             "lot_id": "S20260604-3040",
             "lot_container_close": "04/06/2026",
-            "lot_status": "ออกจากจีน",
+            "lot_status": "ถึงไทย",
             "lot_departed_china": "04/06/2026",
-            "lot_arrived_thai": "29/06/2026"
+            "lot_arrived_thai": "25/06/2026"
           }
         ]
       }
@@ -8698,7 +8809,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11362",
-    "scraped_at": "24/06/2026 04:39:00",
+    "scraped_at": "25/06/2026 04:37:31",
     "order_id": "PN-1275#S11362",
     "date": "25/05/2026 18:37",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -8785,7 +8896,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11361",
-    "scraped_at": "24/06/2026 04:39:08",
+    "scraped_at": "25/06/2026 04:37:41",
     "order_id": "PN-1275#S11361",
     "date": "25/05/2026 18:20",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -8829,7 +8940,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11360",
-    "scraped_at": "24/06/2026 04:39:04",
+    "scraped_at": "25/06/2026 04:37:36",
     "order_id": "PN-1275#S11360",
     "date": "25/05/2026 18:18",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -9072,7 +9183,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11359",
-    "scraped_at": "24/06/2026 04:39:09",
+    "scraped_at": "25/06/2026 04:37:43",
     "order_id": "PN-1275#S11359",
     "date": "25/05/2026 18:09",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -9115,7 +9226,7 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=100113401338-%E5%B9%B3%E5%AE%89%E8%BE%BE-1-2%2F3",
             "tracking_id": "เลขพัสดุ : 100113401338-平安达-1-2/3",
             "date": "29/05/26 : 11:13",
-            "status": "สถานะ: รอชำระเงิน",
+            "status": "สถานะ: เตรียมส่ง",
             "product_description": null,
             "note": null,
             "box_type": "2",
@@ -9145,7 +9256,7 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=100113401338-%E5%B9%B3%E5%AE%89%E8%BE%BE-3%2F3",
             "tracking_id": "เลขพัสดุ : 100113401338-平安达-3/3",
             "date": "29/05/26 : 11:13",
-            "status": "สถานะ: รอชำระเงิน",
+            "status": "สถานะ: เตรียมส่ง",
             "product_description": null,
             "note": null,
             "box_type": "1",
@@ -9177,7 +9288,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11358",
-    "scraped_at": "24/06/2026 04:39:16",
+    "scraped_at": "25/06/2026 04:37:48",
     "order_id": "PN-1275#S11358",
     "date": "25/05/2026 18:05",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -9251,7 +9362,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11356",
-    "scraped_at": "24/06/2026 04:39:15",
+    "scraped_at": "25/06/2026 04:37:49",
     "order_id": "PN-1275#S11356",
     "date": "25/05/2026 15:42",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -9326,7 +9437,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11349",
-    "scraped_at": "24/06/2026 04:39:19",
+    "scraped_at": "25/06/2026 04:37:52",
     "order_id": "PN-1275#S11349",
     "date": "24/05/2026 13:16",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -9675,7 +9786,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11347",
-    "scraped_at": "24/06/2026 04:39:19",
+    "scraped_at": "25/06/2026 04:37:53",
     "order_id": "PN-1275#S11347",
     "date": "23/05/2026 16:34",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -9774,7 +9885,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11346",
-    "scraped_at": "24/06/2026 04:39:25",
+    "scraped_at": "25/06/2026 04:37:58",
     "order_id": "PN-1275#S11346",
     "date": "23/05/2026 16:20",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -9861,7 +9972,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11344",
-    "scraped_at": "24/06/2026 04:39:29",
+    "scraped_at": "25/06/2026 04:38:02",
     "order_id": "PN-1275#S11344",
     "date": "23/05/2026 16:13",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -9948,7 +10059,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11345",
-    "scraped_at": "24/06/2026 04:39:23",
+    "scraped_at": "25/06/2026 04:37:57",
     "order_id": "PN-1275#S11345",
     "date": "23/05/2026 16:13",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -10023,7 +10134,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11343",
-    "scraped_at": "24/06/2026 04:39:27",
+    "scraped_at": "25/06/2026 04:38:01",
     "order_id": "PN-1275#S11343",
     "date": "23/05/2026 14:32",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -10254,7 +10365,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11342",
-    "scraped_at": "24/06/2026 04:39:33",
+    "scraped_at": "25/06/2026 04:38:06",
     "order_id": "PN-1275#S11342",
     "date": "23/05/2026 13:17",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -10329,7 +10440,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11340",
-    "scraped_at": "24/06/2026 04:39:38",
+    "scraped_at": "25/06/2026 04:38:14",
     "order_id": "PN-1275#S11340",
     "date": "23/05/2026 11:50",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -10452,7 +10563,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11339",
-    "scraped_at": "24/06/2026 04:39:36",
+    "scraped_at": "25/06/2026 04:38:10",
     "order_id": "PN-1275#S11339",
     "date": "23/05/2026 11:38",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -10551,7 +10662,7 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=773423575890825-%E7%94%B3%E9%80%9A",
             "tracking_id": "เลขพัสดุ : 773423575890825-申通",
             "date": "28/05/26 : 10:22",
-            "status": "สถานะ: รอชำระเงิน",
+            "status": "สถานะ: เตรียมส่ง",
             "product_description": null,
             "note": null,
             "box_type": "1",
@@ -10583,7 +10694,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11338",
-    "scraped_at": "24/06/2026 04:39:43",
+    "scraped_at": "25/06/2026 04:38:18",
     "order_id": "PN-1275#S11338",
     "date": "23/05/2026 11:26",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -10671,7 +10782,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11337",
-    "scraped_at": "24/06/2026 04:39:41",
+    "scraped_at": "25/06/2026 04:38:15",
     "order_id": "PN-1275#S11337",
     "date": "23/05/2026 10:58",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -10715,7 +10826,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11336",
-    "scraped_at": "24/06/2026 04:39:45",
+    "scraped_at": "25/06/2026 04:38:21",
     "order_id": "PN-1275#S11336",
     "date": "23/05/2026 10:24",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -10758,7 +10869,7 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=8207599311520-EMS",
             "tracking_id": "เลขพัสดุ : 8207599311520-EMS",
             "date": "02/06/26 : 15:05",
-            "status": "สถานะ: รอชำระเงิน",
+            "status": "สถานะ: เตรียมส่ง",
             "product_description": null,
             "note": null,
             "box_type": "1",
@@ -10790,7 +10901,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11335",
-    "scraped_at": "24/06/2026 04:39:43",
+    "scraped_at": "25/06/2026 04:38:17",
     "order_id": "PN-1275#S11335",
     "date": "23/05/2026 10:22",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -10846,7 +10957,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11334",
-    "scraped_at": "24/06/2026 04:39:49",
+    "scraped_at": "25/06/2026 04:38:25",
     "order_id": "PN-1275#S11334",
     "date": "23/05/2026 10:19",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -10900,7 +11011,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11333",
-    "scraped_at": "24/06/2026 04:39:45",
+    "scraped_at": "25/06/2026 04:38:19",
     "order_id": "PN-1275#S11333",
     "date": "23/05/2026 10:15",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -10985,7 +11096,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11332",
-    "scraped_at": "24/06/2026 04:39:51",
+    "scraped_at": "25/06/2026 04:38:27",
     "order_id": "PN-1275#S11332",
     "date": "23/05/2026 10:13",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -11041,7 +11152,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11331",
-    "scraped_at": "24/06/2026 04:39:49",
+    "scraped_at": "25/06/2026 04:38:23",
     "order_id": "PN-1275#S11331",
     "date": "23/05/2026 10:12",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -11097,7 +11208,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11310",
-    "scraped_at": "24/06/2026 04:39:53",
+    "scraped_at": "25/06/2026 04:38:29",
     "order_id": "PN-1275#S11310",
     "date": "15/05/2026 16:24",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -11172,7 +11283,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11301",
-    "scraped_at": "24/06/2026 04:39:51",
+    "scraped_at": "25/06/2026 04:38:25",
     "order_id": "PN-1275#S11301",
     "date": "13/05/2026 14:29",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -11410,7 +11521,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11290",
-    "scraped_at": "24/06/2026 04:39:57",
+    "scraped_at": "25/06/2026 04:38:33",
     "order_id": "PN-1275#S11290",
     "date": "12/05/2026 10:07",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -11569,7 +11680,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11288",
-    "scraped_at": "24/06/2026 04:39:57",
+    "scraped_at": "25/06/2026 04:38:32",
     "order_id": "PN-1275#S11288",
     "date": "11/05/2026 17:03",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -11613,7 +11724,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11283",
-    "scraped_at": "24/06/2026 04:40:01",
+    "scraped_at": "25/06/2026 04:38:37",
     "order_id": "PN-1275#S11283",
     "date": "11/05/2026 14:02",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -11754,7 +11865,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11282",
-    "scraped_at": "24/06/2026 04:39:59",
+    "scraped_at": "25/06/2026 04:38:34",
     "order_id": "PN-1275#S11282",
     "date": "11/05/2026 10:40",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -11841,7 +11952,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11281",
-    "scraped_at": "24/06/2026 04:40:07",
+    "scraped_at": "25/06/2026 04:38:44",
     "order_id": "PN-1275#S11281",
     "date": "09/05/2026 15:41",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -11928,7 +12039,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11280",
-    "scraped_at": "24/06/2026 04:40:03",
+    "scraped_at": "25/06/2026 04:38:38",
     "order_id": "PN-1275#S11280",
     "date": "09/05/2026 15:34",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -12291,7 +12402,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11278",
-    "scraped_at": "24/06/2026 04:40:11",
+    "scraped_at": "25/06/2026 04:38:48",
     "order_id": "PN-1275#S11278",
     "date": "09/05/2026 14:42",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -12378,7 +12489,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11273",
-    "scraped_at": "24/06/2026 04:40:16",
+    "scraped_at": "25/06/2026 04:38:51",
     "order_id": "PN-1275#S11273",
     "date": "09/05/2026 10:07",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -12477,7 +12588,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11271",
-    "scraped_at": "24/06/2026 04:40:15",
+    "scraped_at": "25/06/2026 04:38:52",
     "order_id": "PN-1275#S11271",
     "date": "08/05/2026 16:36",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -12798,7 +12909,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11270",
-    "scraped_at": "24/06/2026 04:40:20",
+    "scraped_at": "25/06/2026 04:38:56",
     "order_id": "PN-1275#S11270",
     "date": "08/05/2026 15:38",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -12933,7 +13044,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11267",
-    "scraped_at": "24/06/2026 04:40:25",
+    "scraped_at": "25/06/2026 04:39:03",
     "order_id": "PN-1275#S11267",
     "date": "08/05/2026 14:24",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -13008,7 +13119,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11266",
-    "scraped_at": "24/06/2026 04:40:24",
+    "scraped_at": "25/06/2026 04:39:00",
     "order_id": "PN-1275#S11266",
     "date": "08/05/2026 12:42",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -13107,7 +13218,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11265",
-    "scraped_at": "24/06/2026 04:40:29",
+    "scraped_at": "25/06/2026 04:39:07",
     "order_id": "PN-1275#S11265",
     "date": "08/05/2026 12:15",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -13222,7 +13333,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11264",
-    "scraped_at": "24/06/2026 04:40:28",
+    "scraped_at": "25/06/2026 04:39:04",
     "order_id": "PN-1275#S11264",
     "date": "08/05/2026 12:04",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -13314,7 +13425,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11262",
-    "scraped_at": "24/06/2026 04:40:35",
+    "scraped_at": "25/06/2026 04:39:13",
     "order_id": "PN-1275#S11262",
     "date": "08/05/2026 11:53",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -13485,7 +13596,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11261",
-    "scraped_at": "24/06/2026 04:40:30",
+    "scraped_at": "25/06/2026 04:39:07",
     "order_id": "PN-1275#S11261",
     "date": "08/05/2026 10:30",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -13560,7 +13671,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11260",
-    "scraped_at": "24/06/2026 04:40:40",
+    "scraped_at": "25/06/2026 04:39:18",
     "order_id": "PN-1275#S11260",
     "date": "08/05/2026 10:12",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -13731,7 +13842,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11256",
-    "scraped_at": "24/06/2026 04:40:34",
+    "scraped_at": "25/06/2026 04:39:11",
     "order_id": "PN-1275#S11256",
     "date": "07/05/2026 11:45",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -13841,7 +13952,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11255",
-    "scraped_at": "24/06/2026 04:40:46",
+    "scraped_at": "25/06/2026 04:39:24",
     "order_id": "PN-1275#S11255",
     "date": "07/05/2026 11:11",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -13939,7 +14050,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11254",
-    "scraped_at": "24/06/2026 04:40:36",
+    "scraped_at": "25/06/2026 04:39:13",
     "order_id": "PN-1275#S11254",
     "date": "07/05/2026 11:07",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -14038,7 +14149,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11253",
-    "scraped_at": "24/06/2026 04:40:48",
+    "scraped_at": "25/06/2026 04:39:27",
     "order_id": "PN-1275#S11253",
     "date": "07/05/2026 11:01",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -14221,7 +14332,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11252",
-    "scraped_at": "24/06/2026 04:40:40",
+    "scraped_at": "25/06/2026 04:39:17",
     "order_id": "PN-1275#S11252",
     "date": "06/05/2026 16:48",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -14296,7 +14407,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11251",
-    "scraped_at": "24/06/2026 04:40:56",
+    "scraped_at": "25/06/2026 04:39:35",
     "order_id": "PN-1275#S11251",
     "date": "06/05/2026 16:39",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -14509,7 +14620,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11240",
-    "scraped_at": "24/06/2026 04:40:44",
+    "scraped_at": "25/06/2026 04:39:21",
     "order_id": "PN-1275#S11240",
     "date": "05/05/2026 13:06",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -14584,7 +14695,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11238",
-    "scraped_at": "24/06/2026 04:41:06",
+    "scraped_at": "25/06/2026 04:39:46",
     "order_id": "PN-1275#S11238",
     "date": "05/05/2026 08:57",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -14628,7 +14739,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11223",
-    "scraped_at": "24/06/2026 04:40:48",
+    "scraped_at": "25/06/2026 04:39:26",
     "order_id": "PN-1275#S11223",
     "date": "02/05/2026 11:52",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -14871,7 +14982,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11222",
-    "scraped_at": "24/06/2026 04:41:08",
+    "scraped_at": "25/06/2026 04:39:48",
     "order_id": "PN-1275#S11222",
     "date": "02/05/2026 10:58",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -15132,7 +15243,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11208",
-    "scraped_at": "24/06/2026 04:41:00",
+    "scraped_at": "25/06/2026 04:39:38",
     "order_id": "PN-1275#S11208",
     "date": "29/04/2026 17:49",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -15176,7 +15287,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11207",
-    "scraped_at": "24/06/2026 04:41:14",
+    "scraped_at": "25/06/2026 04:39:55",
     "order_id": "PN-1275#S11207",
     "date": "29/04/2026 17:13",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -15232,7 +15343,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11205",
-    "scraped_at": "24/06/2026 04:41:02",
+    "scraped_at": "25/06/2026 04:39:40",
     "order_id": "PN-1275#S11205",
     "date": "29/04/2026 13:16",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -15523,7 +15634,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11201",
-    "scraped_at": "24/06/2026 04:41:16",
+    "scraped_at": "25/06/2026 04:39:57",
     "order_id": "PN-1275#S11201",
     "date": "29/04/2026 11:06",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -15577,7 +15688,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11200",
-    "scraped_at": "24/06/2026 04:41:14",
+    "scraped_at": "25/06/2026 04:39:53",
     "order_id": "PN-1275#S11200",
     "date": "28/04/2026 17:29",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -15842,7 +15953,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11198",
-    "scraped_at": "24/06/2026 04:41:18",
+    "scraped_at": "25/06/2026 04:39:59",
     "order_id": "PN-1275#S11198",
     "date": "28/04/2026 15:18",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -15917,7 +16028,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11191",
-    "scraped_at": "24/06/2026 04:41:29",
+    "scraped_at": "25/06/2026 04:40:10",
     "order_id": "PN-1275#S11191",
     "date": "28/04/2026 11:56",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -15960,7 +16071,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11177",
-    "scraped_at": "24/06/2026 04:41:22",
+    "scraped_at": "25/06/2026 04:40:03",
     "order_id": "PN-1275#S11177",
     "date": "25/04/2026 14:16",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -16016,7 +16127,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11174",
-    "scraped_at": "24/06/2026 04:41:31",
+    "scraped_at": "25/06/2026 04:40:12",
     "order_id": "PN-1275#S11174",
     "date": "25/04/2026 09:16",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -16091,7 +16202,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11153",
-    "scraped_at": "24/06/2026 04:41:24",
+    "scraped_at": "25/06/2026 04:40:06",
     "order_id": "PN-1275#S11153",
     "date": "23/04/2026 12:09",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -16255,7 +16366,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11152",
-    "scraped_at": "24/06/2026 04:41:35",
+    "scraped_at": "25/06/2026 04:40:16",
     "order_id": "PN-1275#S11152",
     "date": "23/04/2026 10:57",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -16419,7 +16530,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11151",
-    "scraped_at": "24/06/2026 04:41:27",
+    "scraped_at": "25/06/2026 04:40:08",
     "order_id": "PN-1275#S11151",
     "date": "23/04/2026 10:09",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -16488,7 +16599,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11150",
-    "scraped_at": "24/06/2026 04:41:38",
+    "scraped_at": "25/06/2026 04:40:19",
     "order_id": "PN-1275#S11150",
     "date": "22/04/2026 14:34",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -16580,7 +16691,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11149",
-    "scraped_at": "24/06/2026 04:41:29",
+    "scraped_at": "25/06/2026 04:40:11",
     "order_id": "PN-1275#S11149",
     "date": "22/04/2026 14:30",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -16624,7 +16735,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11148",
-    "scraped_at": "24/06/2026 04:41:40",
+    "scraped_at": "25/06/2026 04:40:21",
     "order_id": "PN-1275#S11148",
     "date": "22/04/2026 14:01",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -16699,7 +16810,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11147",
-    "scraped_at": "24/06/2026 04:41:31",
+    "scraped_at": "25/06/2026 04:40:13",
     "order_id": "PN-1275#S11147",
     "date": "22/04/2026 13:56",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -16774,7 +16885,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11146",
-    "scraped_at": "24/06/2026 04:41:44",
+    "scraped_at": "25/06/2026 04:40:25",
     "order_id": "PN-1275#S11146",
     "date": "22/04/2026 13:48",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -16913,7 +17024,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11145",
-    "scraped_at": "24/06/2026 04:41:34",
+    "scraped_at": "25/06/2026 04:40:17",
     "order_id": "PN-1275#S11145",
     "date": "22/04/2026 12:20",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -17054,7 +17165,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11144",
-    "scraped_at": "24/06/2026 04:41:50",
+    "scraped_at": "25/06/2026 04:40:31",
     "order_id": "PN-1275#S11144",
     "date": "22/04/2026 12:08",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -17189,7 +17300,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11143",
-    "scraped_at": "24/06/2026 04:41:40",
+    "scraped_at": "25/06/2026 04:40:23",
     "order_id": "PN-1275#S11143",
     "date": "22/04/2026 11:37",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -17317,7 +17428,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11140",
-    "scraped_at": "24/06/2026 04:41:54",
+    "scraped_at": "25/06/2026 04:40:36",
     "order_id": "PN-1275#S11140",
     "date": "21/04/2026 14:39",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -17434,7 +17545,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11138",
-    "scraped_at": "24/06/2026 04:41:43",
+    "scraped_at": "25/06/2026 04:40:26",
     "order_id": "PN-1275#S11138",
     "date": "21/04/2026 14:15",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -17478,7 +17589,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11136",
-    "scraped_at": "24/06/2026 04:42:00",
+    "scraped_at": "25/06/2026 04:40:42",
     "order_id": "PN-1275#S11136",
     "date": "21/04/2026 11:07",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -17553,7 +17664,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11135",
-    "scraped_at": "24/06/2026 04:41:45",
+    "scraped_at": "25/06/2026 04:40:28",
     "order_id": "PN-1275#S11135",
     "date": "21/04/2026 10:25",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -17640,7 +17751,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11134",
-    "scraped_at": "24/06/2026 04:42:03",
+    "scraped_at": "25/06/2026 04:40:46",
     "order_id": "PN-1275#S11134",
     "date": "21/04/2026 10:24",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -17696,7 +17807,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11133",
-    "scraped_at": "24/06/2026 04:41:49",
+    "scraped_at": "25/06/2026 04:40:32",
     "order_id": "PN-1275#S11133",
     "date": "21/04/2026 10:17",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -17740,7 +17851,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11132",
-    "scraped_at": "24/06/2026 04:42:05",
+    "scraped_at": "25/06/2026 04:40:48",
     "order_id": "PN-1275#S11132",
     "date": "21/04/2026 10:09",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -17784,7 +17895,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11131",
-    "scraped_at": "24/06/2026 04:41:51",
+    "scraped_at": "25/06/2026 04:40:34",
     "order_id": "PN-1275#S11131",
     "date": "21/04/2026 10:06",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -17828,7 +17939,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11129",
-    "scraped_at": "24/06/2026 04:42:07",
+    "scraped_at": "25/06/2026 04:40:50",
     "order_id": "PN-1275#S11129",
     "date": "20/04/2026 18:20",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -17957,7 +18068,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11124",
-    "scraped_at": "24/06/2026 04:41:52",
+    "scraped_at": "25/06/2026 04:40:36",
     "order_id": "PN-1275#S11124",
     "date": "20/04/2026 10:34",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -18116,7 +18227,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11123",
-    "scraped_at": "24/06/2026 04:42:13",
+    "scraped_at": "25/06/2026 04:40:56",
     "order_id": "PN-1275#S11123",
     "date": "20/04/2026 10:24",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -18304,7 +18415,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11122",
-    "scraped_at": "24/06/2026 04:42:00",
+    "scraped_at": "25/06/2026 04:40:44",
     "order_id": "PN-1275#S11122",
     "date": "20/04/2026 10:13",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -18541,7 +18652,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11121",
-    "scraped_at": "24/06/2026 04:42:16",
+    "scraped_at": "25/06/2026 04:41:00",
     "order_id": "PN-1275#S11121",
     "date": "20/04/2026 10:11",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -18676,7 +18787,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11120",
-    "scraped_at": "24/06/2026 04:42:07",
+    "scraped_at": "25/06/2026 04:40:51",
     "order_id": "PN-1275#S11120",
     "date": "20/04/2026 10:11",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -18775,7 +18886,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11119",
-    "scraped_at": "24/06/2026 04:42:20",
+    "scraped_at": "25/06/2026 04:41:05",
     "order_id": "PN-1275#S11119",
     "date": "20/04/2026 10:10",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -18850,7 +18961,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11101",
-    "scraped_at": "24/06/2026 04:42:24",
+    "scraped_at": "25/06/2026 04:41:09",
     "order_id": "PN-1275#S11101",
     "date": "11/04/2026 10:36",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -19047,7 +19158,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11102",
-    "scraped_at": "24/06/2026 04:42:11",
+    "scraped_at": "25/06/2026 04:40:55",
     "order_id": "PN-1275#S11102",
     "date": "11/04/2026 10:36",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -19159,7 +19270,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11097",
-    "scraped_at": "24/06/2026 04:42:15",
+    "scraped_at": "25/06/2026 04:41:00",
     "order_id": "PN-1275#S11097",
     "date": "10/04/2026 17:11",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -19264,7 +19375,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11096",
-    "scraped_at": "24/06/2026 04:42:27",
+    "scraped_at": "25/06/2026 04:41:12",
     "order_id": "PN-1275#S11096",
     "date": "10/04/2026 15:46",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -19387,7 +19498,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11095",
-    "scraped_at": "24/06/2026 04:42:21",
+    "scraped_at": "25/06/2026 04:41:07",
     "order_id": "PN-1275#S11095",
     "date": "10/04/2026 15:35",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -19727,7 +19838,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11094",
-    "scraped_at": "24/06/2026 04:42:31",
+    "scraped_at": "25/06/2026 04:41:17",
     "order_id": "PN-1275#S11094",
     "date": "10/04/2026 14:56",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -19771,7 +19882,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11093",
-    "scraped_at": "24/06/2026 04:42:33",
+    "scraped_at": "25/06/2026 04:41:20",
     "order_id": "PN-1275#S11093",
     "date": "10/04/2026 14:52",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -19846,7 +19957,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11092",
-    "scraped_at": "24/06/2026 04:42:33",
+    "scraped_at": "25/06/2026 04:41:19",
     "order_id": "PN-1275#S11092",
     "date": "10/04/2026 14:46",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -19945,7 +20056,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11091",
-    "scraped_at": "24/06/2026 04:42:37",
+    "scraped_at": "25/06/2026 04:41:24",
     "order_id": "PN-1275#S11091",
     "date": "10/04/2026 14:28",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -20062,7 +20173,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11090",
-    "scraped_at": "24/06/2026 04:42:37",
+    "scraped_at": "25/06/2026 04:41:23",
     "order_id": "PN-1275#S11090",
     "date": "10/04/2026 14:26",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -20179,7 +20290,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11089",
-    "scraped_at": "24/06/2026 04:42:43",
+    "scraped_at": "25/06/2026 04:41:30",
     "order_id": "PN-1275#S11089",
     "date": "10/04/2026 14:24",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -20254,7 +20365,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11088",
-    "scraped_at": "24/06/2026 04:42:43",
+    "scraped_at": "25/06/2026 04:41:29",
     "order_id": "PN-1275#S11088",
     "date": "10/04/2026 13:56",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -20329,7 +20440,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11087",
-    "scraped_at": "24/06/2026 04:42:47",
+    "scraped_at": "25/06/2026 04:41:34",
     "order_id": "PN-1275#S11087",
     "date": "10/04/2026 13:48",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -20476,7 +20587,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11086",
-    "scraped_at": "24/06/2026 04:42:47",
+    "scraped_at": "25/06/2026 04:41:33",
     "order_id": "PN-1275#S11086",
     "date": "10/04/2026 13:07",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -20611,7 +20722,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11085",
-    "scraped_at": "24/06/2026 04:42:55",
+    "scraped_at": "25/06/2026 04:41:43",
     "order_id": "PN-1275#S11085",
     "date": "10/04/2026 12:59",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -20686,7 +20797,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11084",
-    "scraped_at": "24/06/2026 04:42:55",
+    "scraped_at": "25/06/2026 04:41:41",
     "order_id": "PN-1275#S11084",
     "date": "10/04/2026 12:57",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -20754,7 +20865,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11083",
-    "scraped_at": "24/06/2026 04:42:58",
+    "scraped_at": "25/06/2026 04:41:47",
     "order_id": "PN-1275#S11083",
     "date": "10/04/2026 12:43",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -20829,7 +20940,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11079",
-    "scraped_at": "24/06/2026 04:42:57",
+    "scraped_at": "25/06/2026 04:41:43",
     "order_id": "PN-1275#S11079",
     "date": "10/04/2026 11:42",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -20885,7 +20996,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11078",
-    "scraped_at": "24/06/2026 04:43:02",
+    "scraped_at": "25/06/2026 04:41:51",
     "order_id": "PN-1275#S11078",
     "date": "10/04/2026 11:24",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -21184,7 +21295,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11077",
-    "scraped_at": "24/06/2026 04:42:59",
+    "scraped_at": "25/06/2026 04:41:46",
     "order_id": "PN-1275#S11077",
     "date": "10/04/2026 11:00",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -21372,7 +21483,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11076",
-    "scraped_at": "24/06/2026 04:43:14",
+    "scraped_at": "25/06/2026 04:42:04",
     "order_id": "PN-1275#S11076",
     "date": "10/04/2026 10:11",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -21446,7 +21557,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11075",
-    "scraped_at": "24/06/2026 04:43:02",
+    "scraped_at": "25/06/2026 04:41:49",
     "order_id": "PN-1275#S11075",
     "date": "10/04/2026 09:46",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -21490,7 +21601,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11074",
-    "scraped_at": "24/06/2026 04:43:18",
+    "scraped_at": "25/06/2026 04:42:08",
     "order_id": "PN-1275#S11074",
     "date": "10/04/2026 09:38",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -21565,7 +21676,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11073",
-    "scraped_at": "24/06/2026 04:43:04",
+    "scraped_at": "25/06/2026 04:41:51",
     "order_id": "PN-1275#S11073",
     "date": "10/04/2026 09:37",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -21640,7 +21751,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11072",
-    "scraped_at": "24/06/2026 04:43:22",
+    "scraped_at": "25/06/2026 04:42:12",
     "order_id": "PN-1275#S11072",
     "date": "10/04/2026 09:29",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -21715,7 +21826,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11071",
-    "scraped_at": "24/06/2026 04:43:08",
+    "scraped_at": "25/06/2026 04:41:55",
     "order_id": "PN-1275#S11071",
     "date": "10/04/2026 09:28",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -21759,7 +21870,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11070",
-    "scraped_at": "24/06/2026 04:43:26",
+    "scraped_at": "25/06/2026 04:42:16",
     "order_id": "PN-1275#S11070",
     "date": "10/04/2026 09:17",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -21834,7 +21945,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11069",
-    "scraped_at": "24/06/2026 04:43:10",
+    "scraped_at": "25/06/2026 04:41:57",
     "order_id": "PN-1275#S11069",
     "date": "10/04/2026 09:16",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -21878,7 +21989,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11068",
-    "scraped_at": "24/06/2026 04:43:30",
+    "scraped_at": "25/06/2026 04:42:20",
     "order_id": "PN-1275#S11068",
     "date": "10/04/2026 01:06",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -21953,7 +22064,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11067",
-    "scraped_at": "24/06/2026 04:43:11",
+    "scraped_at": "25/06/2026 04:41:59",
     "order_id": "PN-1275#S11067",
     "date": "10/04/2026 00:57",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -22028,7 +22139,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11066",
-    "scraped_at": "24/06/2026 04:43:34",
+    "scraped_at": "25/06/2026 04:42:24",
     "order_id": "PN-1275#S11066",
     "date": "10/04/2026 00:55",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -22072,7 +22183,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11065",
-    "scraped_at": "24/06/2026 04:43:15",
+    "scraped_at": "25/06/2026 04:42:03",
     "order_id": "PN-1275#S11065",
     "date": "10/04/2026 00:48",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -22159,7 +22270,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11064",
-    "scraped_at": "24/06/2026 04:43:36",
+    "scraped_at": "25/06/2026 04:42:26",
     "order_id": "PN-1275#S11064",
     "date": "10/04/2026 00:27",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -22234,7 +22345,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11063",
-    "scraped_at": "24/06/2026 04:43:19",
+    "scraped_at": "25/06/2026 04:42:08",
     "order_id": "PN-1275#S11063",
     "date": "10/04/2026 00:23",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -22309,7 +22420,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11062",
-    "scraped_at": "24/06/2026 04:43:40",
+    "scraped_at": "25/06/2026 04:42:30",
     "order_id": "PN-1275#S11062",
     "date": "10/04/2026 00:16",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -22384,7 +22495,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11061",
-    "scraped_at": "24/06/2026 04:43:23",
+    "scraped_at": "25/06/2026 04:42:12",
     "order_id": "PN-1275#S11061",
     "date": "10/04/2026 00:13",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -22471,7 +22582,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11060",
-    "scraped_at": "24/06/2026 04:43:43",
+    "scraped_at": "25/06/2026 04:42:34",
     "order_id": "PN-1275#S11060",
     "date": "10/04/2026 00:07",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -22558,7 +22669,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11059",
-    "scraped_at": "24/06/2026 04:43:27",
+    "scraped_at": "25/06/2026 04:42:16",
     "order_id": "PN-1275#S11059",
     "date": "09/04/2026 23:58",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -22705,7 +22816,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11058",
-    "scraped_at": "24/06/2026 04:43:47",
+    "scraped_at": "25/06/2026 04:42:38",
     "order_id": "PN-1275#S11058",
     "date": "09/04/2026 23:50",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -22780,7 +22891,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11057",
-    "scraped_at": "24/06/2026 04:43:35",
+    "scraped_at": "25/06/2026 04:42:24",
     "order_id": "PN-1275#S11057",
     "date": "09/04/2026 23:41",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -22885,7 +22996,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11056",
-    "scraped_at": "24/06/2026 04:43:51",
+    "scraped_at": "25/06/2026 04:42:42",
     "order_id": "PN-1275#S11056",
     "date": "09/04/2026 18:26",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -22990,7 +23101,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11055",
-    "scraped_at": "24/06/2026 04:43:40",
+    "scraped_at": "25/06/2026 04:42:29",
     "order_id": "PN-1275#S11055",
     "date": "09/04/2026 16:34",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -23101,7 +23212,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11054",
-    "scraped_at": "24/06/2026 04:43:57",
+    "scraped_at": "25/06/2026 04:42:48",
     "order_id": "PN-1275#S11054",
     "date": "09/04/2026 16:03",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -23176,7 +23287,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11053",
-    "scraped_at": "24/06/2026 04:43:45",
+    "scraped_at": "25/06/2026 04:42:34",
     "order_id": "PN-1275#S11053",
     "date": "09/04/2026 15:50",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -23263,7 +23374,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11049",
-    "scraped_at": "24/06/2026 04:44:01",
+    "scraped_at": "25/06/2026 04:42:52",
     "order_id": "PN-1275#S11049",
     "date": "09/04/2026 14:31",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -23350,7 +23461,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11048",
-    "scraped_at": "24/06/2026 04:43:48",
+    "scraped_at": "25/06/2026 04:42:38",
     "order_id": "PN-1275#S11048",
     "date": "09/04/2026 14:25",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -23491,7 +23602,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11046",
-    "scraped_at": "24/06/2026 04:44:05",
+    "scraped_at": "25/06/2026 04:42:57",
     "order_id": "PN-1275#S11046",
     "date": "09/04/2026 14:21",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -23566,7 +23677,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11044",
-    "scraped_at": "24/06/2026 04:43:54",
+    "scraped_at": "25/06/2026 04:42:45",
     "order_id": "PN-1275#S11044",
     "date": "09/04/2026 14:11",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -23715,7 +23826,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11043",
-    "scraped_at": "24/06/2026 04:44:09",
+    "scraped_at": "25/06/2026 04:43:01",
     "order_id": "PN-1275#S11043",
     "date": "09/04/2026 14:07",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -23826,7 +23937,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11041",
-    "scraped_at": "24/06/2026 04:44:00",
+    "scraped_at": "25/06/2026 04:42:51",
     "order_id": "PN-1275#S11041",
     "date": "09/04/2026 11:17",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -23902,7 +24013,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11040",
-    "scraped_at": "24/06/2026 04:44:13",
+    "scraped_at": "25/06/2026 04:43:05",
     "order_id": "PN-1275#S11040",
     "date": "09/04/2026 11:05",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -24119,7 +24230,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11039",
-    "scraped_at": "24/06/2026 04:44:02",
+    "scraped_at": "25/06/2026 04:42:53",
     "order_id": "PN-1275#S11039",
     "date": "09/04/2026 10:06",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -24194,7 +24305,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11038",
-    "scraped_at": "24/06/2026 04:44:17",
+    "scraped_at": "25/06/2026 04:43:11",
     "order_id": "PN-1275#S11038",
     "date": "09/04/2026 09:16",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -24269,7 +24380,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11036",
-    "scraped_at": "24/06/2026 04:44:06",
+    "scraped_at": "25/06/2026 04:42:58",
     "order_id": "PN-1275#S11036",
     "date": "08/04/2026 16:05",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -24313,7 +24424,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11035",
-    "scraped_at": "24/06/2026 04:44:21",
+    "scraped_at": "25/06/2026 04:43:15",
     "order_id": "PN-1275#S11035",
     "date": "08/04/2026 16:04",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -24388,7 +24499,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11034",
-    "scraped_at": "24/06/2026 04:44:08",
+    "scraped_at": "25/06/2026 04:43:00",
     "order_id": "PN-1275#S11034",
     "date": "08/04/2026 16:01",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -24463,7 +24574,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11033",
-    "scraped_at": "24/06/2026 04:44:25",
+    "scraped_at": "25/06/2026 04:43:19",
     "order_id": "PN-1275#S11033",
     "date": "08/04/2026 15:55",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -24550,7 +24661,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11031",
-    "scraped_at": "24/06/2026 04:44:12",
+    "scraped_at": "25/06/2026 04:43:04",
     "order_id": "PN-1275#S11031",
     "date": "08/04/2026 15:52",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -24604,7 +24715,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11029",
-    "scraped_at": "24/06/2026 04:44:29",
+    "scraped_at": "25/06/2026 04:43:23",
     "order_id": "PN-1275#S11029",
     "date": "08/04/2026 15:50",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -24659,7 +24770,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11028",
-    "scraped_at": "24/06/2026 04:44:14",
+    "scraped_at": "25/06/2026 04:43:07",
     "order_id": "PN-1275#S11028",
     "date": "08/04/2026 15:44",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -24739,7 +24850,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11022",
-    "scraped_at": "24/06/2026 04:44:31",
+    "scraped_at": "25/06/2026 04:43:26",
     "order_id": "PN-1275#S11022",
     "date": "08/04/2026 14:25",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -24814,7 +24925,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11021",
-    "scraped_at": "24/06/2026 04:44:16",
+    "scraped_at": "25/06/2026 04:43:09",
     "order_id": "PN-1275#S11021",
     "date": "08/04/2026 14:19",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -24889,7 +25000,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11020",
-    "scraped_at": "24/06/2026 04:44:35",
+    "scraped_at": "25/06/2026 04:43:30",
     "order_id": "PN-1275#S11020",
     "date": "08/04/2026 13:22",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -24964,7 +25075,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11019",
-    "scraped_at": "24/06/2026 04:44:20",
+    "scraped_at": "25/06/2026 04:43:13",
     "order_id": "PN-1275#S11019",
     "date": "08/04/2026 13:18",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -25111,7 +25222,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11018",
-    "scraped_at": "24/06/2026 04:44:39",
+    "scraped_at": "25/06/2026 04:43:34",
     "order_id": "PN-1275#S11018",
     "date": "08/04/2026 12:50",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -25186,7 +25297,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11017",
-    "scraped_at": "24/06/2026 04:44:25",
+    "scraped_at": "25/06/2026 04:43:18",
     "order_id": "PN-1275#S11017",
     "date": "08/04/2026 12:35",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -25261,7 +25372,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11016",
-    "scraped_at": "24/06/2026 04:44:43",
+    "scraped_at": "25/06/2026 04:43:38",
     "order_id": "PN-1275#S11016",
     "date": "08/04/2026 12:33",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -25336,7 +25447,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/11011",
-    "scraped_at": "24/06/2026 04:44:28",
+    "scraped_at": "25/06/2026 04:43:22",
     "order_id": "PN-1275#S11011",
     "date": "07/04/2026 13:20",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -25392,7 +25503,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10980",
-    "scraped_at": "24/06/2026 04:44:47",
+    "scraped_at": "25/06/2026 04:43:42",
     "order_id": "PN-1275#S10980",
     "date": "02/04/2026 11:42",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -25467,7 +25578,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10979",
-    "scraped_at": "24/06/2026 04:44:30",
+    "scraped_at": "25/06/2026 04:43:24",
     "order_id": "PN-1275#S10979",
     "date": "02/04/2026 11:41",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -25511,7 +25622,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10978",
-    "scraped_at": "24/06/2026 04:44:51",
+    "scraped_at": "25/06/2026 04:43:47",
     "order_id": "PN-1275#S10978",
     "date": "02/04/2026 11:40",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -25555,7 +25666,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10976",
-    "scraped_at": "24/06/2026 04:44:32",
+    "scraped_at": "25/06/2026 04:43:26",
     "order_id": "PN-1275#S10976",
     "date": "01/04/2026 16:54",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -25630,7 +25741,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10975",
-    "scraped_at": "24/06/2026 04:44:53",
+    "scraped_at": "25/06/2026 04:43:49",
     "order_id": "PN-1275#S10975",
     "date": "01/04/2026 16:50",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -25729,7 +25840,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10974",
-    "scraped_at": "24/06/2026 04:44:36",
+    "scraped_at": "25/06/2026 04:43:31",
     "order_id": "PN-1275#S10974",
     "date": "01/04/2026 16:13",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -25772,7 +25883,7 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=YT2544538889636-%E5%9C%86%E9%80%9A",
             "tracking_id": "เลขพัสดุ : YT2544538889636-圆通",
             "date": "04/04/26 : 13:31",
-            "status": "สถานะ: รอชำระเงิน",
+            "status": "สถานะ: เตรียมส่ง",
             "product_description": null,
             "note": null,
             "box_type": "1",
@@ -25804,7 +25915,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10973",
-    "scraped_at": "24/06/2026 04:44:57",
+    "scraped_at": "25/06/2026 04:43:53",
     "order_id": "PN-1275#S10973",
     "date": "01/04/2026 15:56",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -25879,7 +25990,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10972",
-    "scraped_at": "24/06/2026 04:44:40",
+    "scraped_at": "25/06/2026 04:43:35",
     "order_id": "PN-1275#S10972",
     "date": "01/04/2026 15:55",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -25923,7 +26034,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10966",
-    "scraped_at": "24/06/2026 04:45:01",
+    "scraped_at": "25/06/2026 04:43:57",
     "order_id": "PN-1275#S10966",
     "date": "31/03/2026 16:00",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -25998,7 +26109,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10952",
-    "scraped_at": "24/06/2026 04:44:42",
+    "scraped_at": "25/06/2026 04:43:37",
     "order_id": "PN-1275#S10952",
     "date": "30/03/2026 16:17",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -26157,7 +26268,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10950",
-    "scraped_at": "24/06/2026 04:45:05",
+    "scraped_at": "25/06/2026 04:44:02",
     "order_id": "PN-1275#S10950",
     "date": "30/03/2026 15:59",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -26232,7 +26343,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10948",
-    "scraped_at": "24/06/2026 04:44:46",
+    "scraped_at": "25/06/2026 04:43:42",
     "order_id": "PN-1275#S10948",
     "date": "30/03/2026 14:41",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -26307,7 +26418,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10945",
-    "scraped_at": "24/06/2026 04:45:09",
+    "scraped_at": "25/06/2026 04:44:06",
     "order_id": "PN-1275#S10945",
     "date": "30/03/2026 12:07",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -26382,7 +26493,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10944",
-    "scraped_at": "24/06/2026 04:44:50",
+    "scraped_at": "25/06/2026 04:43:46",
     "order_id": "PN-1275#S10944",
     "date": "30/03/2026 11:59",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -26426,7 +26537,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10943",
-    "scraped_at": "24/06/2026 04:45:13",
+    "scraped_at": "25/06/2026 04:44:11",
     "order_id": "PN-1275#S10943",
     "date": "30/03/2026 11:51",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -26470,7 +26581,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10942",
-    "scraped_at": "24/06/2026 04:44:52",
+    "scraped_at": "25/06/2026 04:43:48",
     "order_id": "PN-1275#S10942",
     "date": "30/03/2026 10:18",
     "status": "สถานะ: มีสินค้ายกเลิก",
@@ -26513,7 +26624,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10938",
-    "scraped_at": "24/06/2026 04:45:15",
+    "scraped_at": "25/06/2026 04:44:13",
     "order_id": "PN-1275#S10938",
     "date": "29/03/2026 14:45",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -26588,7 +26699,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10937",
-    "scraped_at": "24/06/2026 04:44:54",
+    "scraped_at": "25/06/2026 04:43:51",
     "order_id": "PN-1275#S10937",
     "date": "29/03/2026 13:46",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -26632,7 +26743,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10936",
-    "scraped_at": "24/06/2026 04:45:18",
+    "scraped_at": "25/06/2026 04:44:17",
     "order_id": "PN-1275#S10936",
     "date": "29/03/2026 13:37",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -26750,7 +26861,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10935",
-    "scraped_at": "24/06/2026 04:44:56",
+    "scraped_at": "25/06/2026 04:43:53",
     "order_id": "PN-1275#S10935",
     "date": "29/03/2026 11:53",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -26824,7 +26935,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10933",
-    "scraped_at": "24/06/2026 04:45:00",
+    "scraped_at": "25/06/2026 04:43:57",
     "order_id": "PN-1275#S10933",
     "date": "29/03/2026 10:49",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -26940,7 +27051,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10934",
-    "scraped_at": "24/06/2026 04:45:23",
+    "scraped_at": "25/06/2026 04:44:21",
     "order_id": "PN-1275#S10934",
     "date": "29/03/2026 10:49",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -27015,7 +27126,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10932",
-    "scraped_at": "24/06/2026 04:45:27",
+    "scraped_at": "25/06/2026 04:44:26",
     "order_id": "PN-1275#S10932",
     "date": "29/03/2026 10:48",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -27144,7 +27255,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10931",
-    "scraped_at": "24/06/2026 04:45:06",
+    "scraped_at": "25/06/2026 04:44:04",
     "order_id": "PN-1275#S10931",
     "date": "29/03/2026 10:34",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -27219,7 +27330,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10927",
-    "scraped_at": "24/06/2026 04:45:33",
+    "scraped_at": "25/06/2026 04:44:32",
     "order_id": "PN-1275#S10927",
     "date": "28/03/2026 12:53",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -27294,7 +27405,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10926",
-    "scraped_at": "24/06/2026 04:45:10",
+    "scraped_at": "25/06/2026 04:44:08",
     "order_id": "PN-1275#S10926",
     "date": "28/03/2026 12:48",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -27369,7 +27480,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10925",
-    "scraped_at": "24/06/2026 04:45:37",
+    "scraped_at": "25/06/2026 04:44:36",
     "order_id": "PN-1275#S10925",
     "date": "28/03/2026 12:46",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -27444,7 +27555,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10924",
-    "scraped_at": "24/06/2026 04:45:14",
+    "scraped_at": "25/06/2026 04:44:12",
     "order_id": "PN-1275#S10924",
     "date": "28/03/2026 12:42",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -27600,7 +27711,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10923",
-    "scraped_at": "24/06/2026 04:45:41",
+    "scraped_at": "25/06/2026 04:44:41",
     "order_id": "PN-1275#S10923",
     "date": "28/03/2026 12:31",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -27656,7 +27767,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10922",
-    "scraped_at": "24/06/2026 04:45:22",
+    "scraped_at": "25/06/2026 04:44:21",
     "order_id": "PN-1275#S10922",
     "date": "28/03/2026 12:23",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -27791,7 +27902,7 @@
             "tracking_url": "https://member.pkcargo.com/forwarders/items/track?track=JT3158094203683-%E6%9E%81%E5%85%94",
             "tracking_id": "เลขพัสดุ : JT3158094203683-极兔",
             "date": "03/04/26 : 15:12",
-            "status": "สถานะ: รอชำระเงิน",
+            "status": "สถานะ: เตรียมส่ง",
             "product_description": null,
             "note": null,
             "box_type": "1",
@@ -27823,7 +27934,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10919",
-    "scraped_at": "24/06/2026 04:45:43",
+    "scraped_at": "25/06/2026 04:44:43",
     "order_id": "PN-1275#S10919",
     "date": "28/03/2026 11:17",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -27922,7 +28033,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10918",
-    "scraped_at": "24/06/2026 04:45:26",
+    "scraped_at": "25/06/2026 04:44:26",
     "order_id": "PN-1275#S10918",
     "date": "28/03/2026 11:16",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -28247,7 +28358,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10914",
-    "scraped_at": "24/06/2026 04:45:47",
+    "scraped_at": "25/06/2026 04:44:47",
     "order_id": "PN-1275#S10914",
     "date": "26/03/2026 09:49",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -28290,7 +28401,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10912",
-    "scraped_at": "24/06/2026 04:45:43",
+    "scraped_at": "25/06/2026 04:44:43",
     "order_id": "PN-1275#S10912",
     "date": "25/03/2026 17:39",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -28365,7 +28476,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10911",
-    "scraped_at": "24/06/2026 04:45:49",
+    "scraped_at": "25/06/2026 04:44:49",
     "order_id": "PN-1275#S10911",
     "date": "25/03/2026 16:18",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -28440,7 +28551,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10910",
-    "scraped_at": "24/06/2026 04:45:47",
+    "scraped_at": "25/06/2026 04:44:47",
     "order_id": "PN-1275#S10910",
     "date": "25/03/2026 16:15",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -28515,7 +28626,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10909",
-    "scraped_at": "24/06/2026 04:45:53",
+    "scraped_at": "25/06/2026 04:44:53",
     "order_id": "PN-1275#S10909",
     "date": "25/03/2026 16:09",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -28559,7 +28670,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10908",
-    "scraped_at": "24/06/2026 04:45:50",
+    "scraped_at": "25/06/2026 04:44:51",
     "order_id": "PN-1275#S10908",
     "date": "25/03/2026 14:22",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -28760,7 +28871,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10907",
-    "scraped_at": "24/06/2026 04:45:55",
+    "scraped_at": "25/06/2026 04:44:55",
     "order_id": "PN-1275#S10907",
     "date": "25/03/2026 11:05",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -28835,7 +28946,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10906",
-    "scraped_at": "24/06/2026 04:45:57",
+    "scraped_at": "25/06/2026 04:44:58",
     "order_id": "PN-1275#S10906",
     "date": "25/03/2026 10:55",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
@@ -28934,7 +29045,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10905",
-    "scraped_at": "24/06/2026 04:45:58",
+    "scraped_at": "25/06/2026 04:45:00",
     "order_id": "PN-1275#S10905",
     "date": "25/03/2026 10:16",
     "status": "สถานะ: ยกเลิกออเดอร์",
@@ -29098,7 +29209,7 @@
   },
   {
     "detail_url": "https://member.pkcargo.com/shops/10898",
-    "scraped_at": "24/06/2026 04:46:01",
+    "scraped_at": "25/06/2026 04:45:02",
     "order_id": "PN-1275#S10898",
     "date": "23/03/2026 13:31",
     "status": "สถานะ: สั่งซื้อสำเร็จ",
